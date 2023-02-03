@@ -1,0 +1,11 @@
+*.csv
+*.tsv
+*.txt
+*.json
+*.jsonl
+./NER/Xin codes/abstract_writer_31_01.csv
+./NER/Xin codes/SYNONYMS.json
+./NER/Xin\ codes/abstract_writer_31_01.csv
+./NER/Xin\ codes/SYNONYMS.json
+./NER/Xin codes/mini_abstracts_10k.csv
+./NER/Xin\ codes/per_word_times_log.csv
