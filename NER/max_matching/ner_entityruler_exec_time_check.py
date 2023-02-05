@@ -209,14 +209,13 @@ import matplotlib.pyplot as plt
 import time
 import os
 
-metabolite_file = '/N/u/paswam/Carbonate/Desktop/Link to Pavi/KD-DocRE/hmdb_mDivided.csv'
+metabolite_file = '../../Data/hmdb_mDivided.csv'
 met_lib = pd.read_csv(metabolite_file)
 print(met_lib.shape)
 
 import json
-syn_lib = json.load(open('SYNONYMS.json'))
+syn_lib = json.load(open('../../Data/SYNONYMS.json'))
 print(len(syn_lib))
-
 
 # names_processed = []
 total_entries = 10000  # Change values and try which works (tried till 50k, can try more than that) # For full use len(met_lib)
@@ -259,18 +258,26 @@ new_met_lib_index = []
 # Need to remove that b character (represents bytes but it is string here in df) from iupac_name and name
 metabolites_patterns = []
 
+verbose_frequency1=400
+verbose_frequency2=400
+nn1,nn2=0,0
 for i in range(total_entries):
     
     # Clean text, remove 'b' from the beginning of string
     full_name = met_lib.iloc[i]['name'].strip("b\'\"")
     full_name_decoded = full_name.encode().decode() # \u2019 - ' urindine
 
+
+
     # Check if word is acceptable - to be acceptable it should have some occurence of any word from A_list
-    if( any(x in full_name_decoded for x in A_list) ):
+    if any(x.lower() in full_name_decoded.lower() for x in A_list) :
         # Add to patterns file
+
+
         id_name = full_name_decoded
         
         # Have the original name as a pattern for exact match of main name, so process the word also
+
         full_name_spaced = ''.join((' {} '.format(el.lower()) if not el.isalnum() and not el.isspace() else el for el in full_name_decoded))
         full_name_list = full_name_spaced.split()
         add_split_pattern = []
@@ -280,32 +287,53 @@ for i in range(total_entries):
         
         metabolites_patterns.append({"label": "Metabolites", "pattern": add_split_pattern, "id": id_name })
         
-        # There are many metabolites with nan synonyms, so ignore them
-        if(syn_lib[i] != ['nan'] and syn_lib[i] != [''] and syn_lib[i] != [' '] ):
-            
-            # No Need to split synonym
-            syn_list = syn_lib[i]
-            
-            # Fixing issue of synonyms being just numbers. 
-            # Solution is to filter and check if a name contains only numbers (isnumeric), if so then do not include in patterns file.
-            syn_list = [item for item in syn_list if not item.isnumeric() and len(item) > 1] # This greater than 1 condition to avoid single alphabets
-            for syn in syn_list:
-                # Doing encode.decode even on normal strings does not affect anything, but helps with strings having unicode characters
-                syn_decoded = syn.encode().decode()
-                syn_spaced = ''.join((' {} '.format(el.lower()) if not el.isalnum() and not el.isspace() else el for el in syn_decoded))
-                
-                # If two letter word then do case sensitive exact match. This is to handle AS, AT words, not to be confused with as, at.
-                if(len(syn_spaced) == 2):
-                    metabolites_patterns.append({"label": "Metabolites", "pattern": syn_spaced, "id": id_name })
-                else:  
-                    # Having double spaces also does not affect as .split() removes any word between any number of spaces
-                    syn_split = syn_spaced.split()
-                    add_split_pattern = []
+    # There are many metabolites with nan synonyms, so ignore them
+    if(syn_lib[i] != ['nan'] and syn_lib[i] != [''] and syn_lib[i] != [' '] ):
+        
+        # No Need to split synonym
+        syn_list = syn_lib[i]
+        
 
-                    for split_word in syn_split:
-                        add_split_pattern.append({"LOWER": str(split_word.lower())}) # The first lower did not work
 
-                    metabolites_patterns.append({"label": "Metabolites", "pattern": add_split_pattern, "id": id_name })
+        # Fixing issue of synonyms being just numbers. 
+        # Solution is to filter and check if a name contains only numbers (isnumeric), if so then do not include in patterns file.
+        
+        syn_list = [item for item in syn_list if not item.isnumeric() and len(item) > 1] # This greater than 1 condition to avoid single alphabets
+        
+
+
+
+        for syn in syn_list:
+            # Doing encode.decode even on normal strings does not affect anything, but helps with strings having unicode characters
+            syn_decoded = syn.encode().decode()
+            
+            syn_spaced = ''.join((' {} '.format(el.lower()) if not el.isalnum() and not el.isspace() else el for el in syn_decoded))
+            
+            syn_split = syn_spaced.split()
+
+            ##check whether A_list in current syn
+            flag=False
+            
+
+            if any(x.lower() in syn_spaced.lower() for x in A_list):
+                flag=True
+                # flag_i2=True
+                # syn_spaced2=syn_spaced
+
+
+
+
+
+			if flag:
+	            # If two letter word then do case sensitive exact match. This is to handle AS, AT words, not to be confused with as, at.
+	            if(len(syn_spaced) == 2):
+	                metabolites_patterns.append({"label": "Metabolites", "pattern": syn_spaced, "id": id_name })
+	            else:  
+	                # Having double spaces also does not affect as .split() removes any word between any number of spaces
+	                add_split_pattern = []
+	                for split_word in syn_split:
+	                    add_split_pattern.append({"LOWER": str(split_word.lower())}) # The first lower did not work
+	                metabolites_patterns.append({"label": "Metabolites", "pattern": add_split_pattern, "id": id_name })
         
         
 print('Total patterns:', len(metabolites_patterns), metabolites_patterns[:2]) # 34k
