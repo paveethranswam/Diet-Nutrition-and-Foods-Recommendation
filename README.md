@@ -1,4 +1,4 @@
-# Diet-Nutrition-and-Foods-recommendation-for-Cancer-Patients-and-extend-this-to-build-as-application
+# Diet-Nutrition-and-Foods-recommendation
 To deliver high level research in two directions, named statistical analysis of molecular omics data and nature language processing analysis of literature data. Need to develop new mathematical models and computational approaches to integrate the findings from the two data sources. The expected deliverables include (1) new computational model, (2) inference of highly explainable dependencies among biological or biomedical features.
 
 ## Metabolism and nutrients and drug recommendation
