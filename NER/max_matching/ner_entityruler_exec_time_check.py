@@ -214,7 +214,7 @@ met_lib = pd.read_csv(metabolite_file)
 print(met_lib.shape)
 
 import json
-syn_lib = json.load(open('../../Data/SYNONYMS.json'))
+syn_lib = json.load(open('../../Data/SYNONYMSv1.1.json'))
 print(len(syn_lib))
 
 # names_processed = []
