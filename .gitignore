@@ -9,3 +9,6 @@
 ./RE-BioGPT/BioGPT/checkpoints/
 ./RE-BioGPT/BioGPT/fairseq/
 ./RE-BioGPT/BioGPT/mosesdecoder/
+./RE-BioGPT/BioGPT/fastBPE/
+./RE-BioGPT/BioGPT/temp
+./RE-BioGPT/BioGPT/temp/
