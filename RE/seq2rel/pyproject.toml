@@ -1,0 +1,85 @@
+[tool.poetry]
+name = "seq2rel"
+version = "0.1.0"
+description = "A Python package that makes it easy to use sequence-to-sequence (seq2seq) learning for information extraction."
+license = "Apache-2.0"
+authors = ["johngiorgi <johnmgiorgi@gmail.com>"]
+readme = "README.md"
+homepage = "https://github.com/johngiorgi/seq2rel"
+repository = "https://github.com/johngiorgi/seq2rel"
+documentation = "https://github.com/johngiorgi/seq2rel"
+keywords = [
+    "named entity recognition",
+    "entity extraction",
+    "relation extraction",
+    "coreference resolution",
+    "information extraction",
+    "document-level",
+    "pytorch",
+    "allennnlp",
+    "seq2rel",
+    "seq2seq"
+]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+exclude = ["tests", "test_fixtures", "training_config"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+typer = { extras = ["all"], version = "^0.4.0" }
+validators = "^0.20.0"
+more-itertools = "^8.10.0"
+allennlp = "^2.9.0,!=2.9.2"
+allennlp-models = "^2.9.0,!=2.9.2"
+fastai = "^2.7.5"
+# Needs to be pinned to avoid this issue: https://github.com/allenai/allennlp/issues/5666
+cached-path = "1.1.2"
+
+[tool.poetry.dev-dependencies]
+black = { extras = ["jupyter"], version = "^22.1" }
+flake8 = "^4.0.1"
+hypothesis = "^6.49.1"
+mypy = "^0.961"
+pytest = "^7.0.1"
+pytest-cov = "^3.0.0"
+coverage = "^6.3"
+codecov = "^2.1.12"
+# Required to run the demo. Streamlit installs all dev dependencies, so we stick them here.
+streamlit = "^1.12.0"
+pyvis = "^0.2.1"
+
+# This configuration is adapted from: https://github.com/allenai/allennlp/blob/main/pyproject.toml
+[tool.black]
+line-length = 100
+
+include = '\.pyi?$'
+
+exclude = '''
+(
+      __pycache__
+    | \btutorials\b
+    | \bbuild\b
+    | \.git
+    | \.mypy_cache
+    | \.pytest_cache
+    | \.vscode
+    | \.venv
+    | \bdist\b
+    | \bdoc\b
+)
+'''
+
+[build-system]
+requires = ["poetry"]
+build-backend = "poetry.masonry.api"
