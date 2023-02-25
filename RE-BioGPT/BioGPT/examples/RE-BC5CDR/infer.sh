@@ -38,13 +38,12 @@ perl ${MOSES}/scripts/tokenizer/detokenizer.perl -l en -a < ${OUTPUT_FILE} > ${O
 
 
 
-### do later
-# postprocess
-python postprocess.py ${OUTPUT_FILE}.detok ${ENTITY_FILE} ${PMID_FILE}
-# eval
-cd ${RAW_DATA_DIR}/BC5CDR_Evaluation-0.0.3
-#bash eval_relation.sh PubTator ${OLDPWD}/${GOLD_FILE} ${OLDPWD}/${OUTPUT_FILE}.detok.extracted.PubTator
-bash eval_relation.sh PubTator ${GOLD_FILE} ${BIOGPT_FOLDER_CDR}/${OUTPUT_FILE}.detok.extracted.PubTator
-cd ${BIOGPT_FOLDER}
+# ### do later
+# # postprocess
+# python postprocess.py ${OUTPUT_FILE}.detok ${ENTITY_FILE} ${PMID_FILE}
+# # eval
+# cd ${RAW_DATA_DIR}/BC5CDR_Evaluation-0.0.3
+# #bash eval_relation.sh PubTator ${OLDPWD}/${GOLD_FILE} ${OLDPWD}/${OUTPUT_FILE}.detok.extracted.PubTator
+# bash eval_relation.sh PubTator ${GOLD_FILE} ${BIOGPT_FOLDER_CDR}/${OUTPUT_FILE}.detok.extracted.PubTator
+# cd ${BIOGPT_FOLDER}
 
-#test??

@@ -7,9 +7,6 @@
 #SBATCH -o biogpt_job.txt
 #SBATCH -e biogpt_job.err
 
-#SBATCH --mail-user=needo@live.cn
-#SBATCH --mail-type=ALL
-
 #SBATCH --nodes 3
 #SBATCH --ntasks-per-node 1
 #SBATCH --gpus-per-node v100:1
