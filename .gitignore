@@ -1,7 +1,3 @@
-*.csv
-*.tsv
-*.txt
-*.json
 *.jsonl
 NER/max_matching/abstract_writer_31_01.csv
 NER/max_matching/SYNONYMS.json
