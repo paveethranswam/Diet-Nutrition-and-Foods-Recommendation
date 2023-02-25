@@ -1,12 +1,13 @@
 *.jsonl
 NER/max_matching/abstract_writer_31_01.csv
 NER/max_matching/SYNONYMS.json
-NER/max_matching//per_word_times_log.csv
+NER/max_matching/per_word_times_log.csv
 RE-BioGPT/BioGPT/checkpoints/
 RE-BioGPT/BioGPT/fairseq/
 RE-BioGPT/BioGPT/mosesdecoder/
 RE-BioGPT/BioGPT/fastBPE/
 RE-BioGPT/BioGPT/temp/
+RE-BioGPT/BioGPT/data/repo_for_test/BioGPT/
 RE-BioGPT/biogpt/
 RE-BioGPT/BioGPT/.git*
 BioGPT_use-conda/
