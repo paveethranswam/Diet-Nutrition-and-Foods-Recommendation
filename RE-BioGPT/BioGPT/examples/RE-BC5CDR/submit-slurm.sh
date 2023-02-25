@@ -24,7 +24,7 @@ module load python/3.10.5
 
 #### module load deeplearning - No need to use this as my virtual env has all dl components installed
 
-source /N/u/paswam/Carbonate/Desktop/Link\ to\ Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/biogpt/bin/activate
+source /N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/biogpt/bin/activate
 
 ######  Job commands go below this line #####
 echo '###### Running script ######'
