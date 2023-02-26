@@ -4,31 +4,15 @@
         "abstract": "OBJECTIVE: The objective of this study was to determine the risk of lifetime and current methamphetamine-induced psychosis in patients with methamphetamine dependence. The association between psychiatric co-morbidity and methamphetamine-induced psychosis was also studied. METHODS: This was a cross-sectional study conducted concurrently at a teaching hospital and a drug rehabilitation center in Malaysia. Patients with the diagnosis of methamphetamine based on DSM-IV were interviewed using the Mini International Neuropsychiatric Interview (M.I.N.I.) for methamphetamine-induced psychosis and other Axis I psychiatric disorders. The information on sociodemographic background and drug use history was obtained from interview or medical records. RESULTS: Of 292 subjects, 47.9% of the subjects had a past history of psychotic symptoms and 13.0% of the patients were having current psychotic symptoms. Co-morbid major depressive disorder (OR=7.18, 95 CI=2.612-19.708), bipolar disorder (OR=13.807, 95 CI=5.194-36.706), antisocial personality disorder (OR=12.619, 95 CI=6.702-23.759) and heavy methamphetamine uses were significantly associated with lifetime methamphetamine-induced psychosis after adjusted for other factors. Major depressive disorder (OR=2.870, CI=1.154-7.142) and antisocial personality disorder (OR=3.299, 95 CI=1.375-7.914) were the only factors associated with current psychosis. CONCLUSION: There was a high risk of psychosis in patients with methamphetamine dependence. It was associated with co-morbid affective disorder, antisocial personality, and heavy methamphetamine use. It is recommended that all cases of methamphetamine dependence should be screened for psychotic symptoms.",
         "relations": [
             {
-                "chemical": "D008694",
-                "disease": "D011605"
-            },
-            {
-                "chemical": "D008694",
-                "disease": "D001714"
-            },
-            {
-                "chemical": "D008694",
-                "disease": "D000987"
+                "chemical": "rand1",
+                "disease": "rand2"
             }
         ],
         "chemical2id": {
-            "methamphetamine": "D008694"
+            "rand1": "rand1"
         },
         "disease2id": {
-            "psychosis": "D011605",
-            "psychiatric disorders": "D001523",
-            "psychotic symptoms": "D011605",
-            "depressive disorder": "D003866",
-            "bipolar disorder": "D001714",
-            "antisocial personality disorder": "D000987",
-            "major depressive disorder": "D003865",
-            "affective disorder": "D019964",
-            "antisocial personality": "D000987"
+            "rand2": "rand2"
         }
     },
     "23535177": {
@@ -36,20 +20,15 @@
         "abstract": "The plasticity of primary motor cortex (M1) in patients with Parkinson's disease (PD) and levodopa-induced dyskinesias (LIDs) is severely impaired. We recently reported in young healthy subjects that inhibitory cerebellar stimulation enhanced the sensorimotor plasticity of M1 that was induced by paired associative stimulation (PAS). This study demonstrates that the deficient sensorimotor M1 plasticity in 16 patients with LIDs could be reinstated by a single session of real inhibitory cerebellar stimulation but not sham stimulation. This was evident only when a sensory component was involved in the induction of plasticity, indicating that cerebellar sensory processing function is involved in the resurgence of M1 plasticity. The benefit of inhibitory cerebellar stimulation on LIDs is known. To explore whether this benefit is linked to the restoration of sensorimotor plasticity of M1, we conducted an additional study looking at changes in LIDs and PAS-induced plasticity after 10 sessions of either bilateral, real inhibitory cerebellar stimulation or sham stimulation. Only real and not sham stimulation had an antidyskinetic effect and it was paralleled by a resurgence in the sensorimotor plasticity of M1. These results suggest that alterations in cerebellar sensory processing function, occurring secondary to abnormal basal ganglia signals reaching it, may be an important element contributing to the maladaptive sensorimotor plasticity of M1 and the emergence of abnormal involuntary movements.",
         "relations": [
             {
-                "chemical": "D007980",
-                "disease": "D004409"
+                "chemical": "rand1",
+                "disease": "rand2"
             }
         ],
         "chemical2id": {
-            "levodopa": "D007980"
+            "rand1": "rand1"
         },
         "disease2id": {
-            "parkinson's disease": "D010300",
-            "dyskinetic": "D004409",
-            "pd": "D010300",
-            "dyskinesias": "D004409",
-            "lids": "D004409",
-            "abnormal involuntary movements": "D004409"
+            "rand2": "rand2"
         }
     },
     "23666265": {
@@ -57,28 +36,15 @@
         "abstract": "PURPOSE: The purpose of the study is to explore the function of P2X3 and NK1 receptors antagonists on cyclophosphamide (CYP)-induced cystitis in rats. METHODS: Sixty female Sprague-Dawley (SD) rats were randomly divided into three groups. The rats in the control group were intraperitoneally (i.p.) injected with 0.9% saline (4 ml/kg); the rats in the model group were i.p. injected with CYP (150 mg/kg); and the rats in the intervention group were i.p. injected with CYP with subsequently perfusion of bladder with P2X3 and NK1 receptors' antagonists, Suramin and GR 82334. Spontaneous pain behaviors following the administration of CYP were observed. Urodynamic parameters, bladder pressure-volume curve, maximum voiding pressure (MVP), and maximum cystometric capacity (MCC), were recorded. Pathological changes in bladder tissue were observed. Immunofluorescence was used to detect the expression of P2X3 and NK1 receptors in bladder. RESULTS: Cyclophosphamide treatment increased the spontaneous pain behaviors scores. The incidence of bladder instability during urine storage period of model group was significantly higher than intervention group (X(2) = 7.619, P = 0.007) and control group (X(2) = 13.755, P = 0.000). MCC in the model group was lower than the control and intervention groups (P < 0.01). Histological changes evident in model and intervention groups rats' bladder included edema, vasodilation, and infiltration of inflammatory cells. In model group, the expression of P2X3 receptor increased in urothelium and suburothelium, and NK1 receptor increased in suburothelium, while the expression of them in intervention group was lower. CONCLUSIONS: In CYP-induced cystitis, the expression of P2X3 and NK1 receptors increased in urothelium and/or suburothelium. Perfusion of bladder with P2X3 and NK1 receptors antagonists ameliorated the bladder function.",
         "relations": [
             {
-                "chemical": "D003520",
-                "disease": "D003556"
-            },
-            {
-                "chemical": "D003520",
-                "disease": "D010146"
-            },
-            {
-                "chemical": "D003520",
-                "disease": "D004487"
+                "chemical": "rand1",
+                "disease": "rand2"
             }
         ],
         "chemical2id": {
-            "cyclophosphamide": "D003520",
-            "cyp": "D003520",
-            "suramin": "D013498",
-            "gr 82334": "C079014"
+            "rand1": "rand1"
         },
         "disease2id": {
-            "cystitis": "D003556",
-            "pain": "D010146",
-            "edema": "D004487"
+            "rand2": "rand2"
         }
     }
 }

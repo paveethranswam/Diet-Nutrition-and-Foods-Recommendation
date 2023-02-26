@@ -14,14 +14,17 @@ if [ -d "${OUTPUT_DIR}" ]; then
     rm -rf ${OUTPUT_DIR}
 fi
 
-python rebuild_data.py ${RAW_DATA_DIR}
+#python rebuild_data.py ${RAW_DATA_DIR}
+python rebuild_data-no_relation.py ${RAW_DATA_DIR}
 
 cp ${DATA_DIR}/../dict.txt ${RAW_DATA_DIR}/
 cp ${DATA_DIR}/../bpecodes ${RAW_DATA_DIR}/
 
 SPLIT=(train valid test)
 
-for ff in ${SPLIT[@]}; do
+for ff in ${SPLIT[@]}
+do
+    echo "${RAW_DATA_DIR}/${prefix}_$ff.y"
     if [ -f "${RAW_DATA_DIR}/${prefix}_$ff.y" ]; then
         echo "Preprocessing ${ff}"
 
