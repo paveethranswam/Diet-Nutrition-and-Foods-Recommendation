@@ -6,26 +6,33 @@ prefix=relis
 RAW_DATA_DIR=${DATA_DIR}/raw
 OUTPUT_DIR=${DATA_DIR}/${prefix}-bin
 
+ROOT=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT
+MOSE=${ROOT}/mosesdecoder
+FASTBPE=${ROOT}/fastBPE/
+
 if [ -d "${OUTPUT_DIR}" ]; then
     rm -rf ${OUTPUT_DIR}
 fi
 
-python rebuild_data.py ${RAW_DATA_DIR}
+#python rebuild_data.py ${RAW_DATA_DIR}
+python rebuild_data-no_relation.py ${RAW_DATA_DIR}
 
 cp ${DATA_DIR}/../dict.txt ${RAW_DATA_DIR}/
 cp ${DATA_DIR}/../bpecodes ${RAW_DATA_DIR}/
 
 SPLIT=(train valid test)
 
-for ff in ${SPLIT[@]}; do
+for ff in ${SPLIT[@]}
+do
+    echo "${RAW_DATA_DIR}/${prefix}_$ff.y"
     if [ -f "${RAW_DATA_DIR}/${prefix}_$ff.y" ]; then
         echo "Preprocessing ${ff}"
 
-        perl /N/u/paswam/Carbonate/Desktop/Link\ to\ Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en -a -threads 8 < ${RAW_DATA_DIR}/${prefix}_$ff.x > ${RAW_DATA_DIR}/${prefix}_$ff.tok.x
-        perl /N/u/paswam/Carbonate/Desktop/Link\ to\ Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en -a -threads 8 < ${RAW_DATA_DIR}/${prefix}_$ff.y > ${RAW_DATA_DIR}/${prefix}_$ff.tok.y
+        perl ${MOSE}/scripts/tokenizer/tokenizer.perl -l en -a -threads 8 < ${RAW_DATA_DIR}/${prefix}_$ff.x > ${RAW_DATA_DIR}/${prefix}_$ff.tok.x
+        perl ${MOSE}/scripts/tokenizer/tokenizer.perl -l en -a -threads 8 < ${RAW_DATA_DIR}/${prefix}_$ff.y > ${RAW_DATA_DIR}/${prefix}_$ff.tok.y
 
-        /N/u/paswam/Carbonate/Desktop/Link\ to\ Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT/fastBPE/fast applybpe ${RAW_DATA_DIR}/${prefix}_$ff.tok.bpe.x ${RAW_DATA_DIR}/${prefix}_$ff.tok.x ${RAW_DATA_DIR}/bpecodes
-        /N/u/paswam/Carbonate/Desktop/Link\ to\ Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT/fastBPE/fast applybpe ${RAW_DATA_DIR}/${prefix}_$ff.tok.bpe.y ${RAW_DATA_DIR}/${prefix}_$ff.tok.y ${RAW_DATA_DIR}/bpecodes
+        ${FASTBPE}/fast applybpe ${RAW_DATA_DIR}/${prefix}_$ff.tok.bpe.x ${RAW_DATA_DIR}/${prefix}_$ff.tok.x ${RAW_DATA_DIR}/bpecodes
+        ${FASTBPE}/fast applybpe ${RAW_DATA_DIR}/${prefix}_$ff.tok.bpe.y ${RAW_DATA_DIR}/${prefix}_$ff.tok.y ${RAW_DATA_DIR}/bpecodes
 
         rm ${RAW_DATA_DIR}/${prefix}_$ff.tok.x ${RAW_DATA_DIR}/${prefix}_$ff.tok.y
     fi

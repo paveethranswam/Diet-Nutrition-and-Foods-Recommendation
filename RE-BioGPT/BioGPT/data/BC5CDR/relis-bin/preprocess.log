@@ -4,11 +4,11 @@ Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=Non
 [x] Dictionary: 42384 types
 [x] ../../data/BC5CDR/raw/relis_valid.tok.bpe.x: 500 sents, 126727 tokens, 0.0% replaced (by <unk>)
 [x] Dictionary: 42384 types
-[x] ../../data/BC5CDR/raw/relis_test.tok.bpe.x: 500 sents, 134570 tokens, 0.0% replaced (by <unk>)
+[x] ../../data/BC5CDR/raw/relis_test.tok.bpe.x: 3 sents, 1074 tokens, 0.0% replaced (by <unk>)
 [y] Dictionary: 42384 types
-[y] ../../data/BC5CDR/raw/relis_train.tok.bpe.y: 500 sents, 11478 tokens, 0.0% replaced (by <unk>)
+[y] ../../data/BC5CDR/raw/relis_train.tok.bpe.y: 500 sents, 10880 tokens, 0.0% replaced (by <unk>)
 [y] Dictionary: 42384 types
-[y] ../../data/BC5CDR/raw/relis_valid.tok.bpe.y: 500 sents, 10803 tokens, 0.0% replaced (by <unk>)
+[y] ../../data/BC5CDR/raw/relis_valid.tok.bpe.y: 500 sents, 10590 tokens, 0.0% replaced (by <unk>)
 [y] Dictionary: 42384 types
-[y] ../../data/BC5CDR/raw/relis_test.tok.bpe.y: 500 sents, 11218 tokens, 0.0% replaced (by <unk>)
+[y] ../../data/BC5CDR/raw/relis_test.tok.bpe.y: 3 sents, 33 tokens, 0.0% replaced (by <unk>)
 Wrote preprocessed data to ../../data/BC5CDR/relis-bin
