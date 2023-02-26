@@ -1,0 +1,79 @@
+[tool.poetry]
+name = "seq2rel-ds"
+version = "0.1.0"
+description = "This is sister repository to seq2rel which aims to make it easy to generate training data."
+license = "Apache-2.0"
+authors = ["johngiorgi <johnmgiorgi@gmail.com>"]
+readme = "README.md"
+homepage = "https://github.com/JohnGiorgi/seq2rel-ds"
+repository = "https://github.com/JohnGiorgi/seq2rel-ds"
+documentation = "https://github.com/JohnGiorgi/seq2rel-ds"
+keywords = [
+    "seq2rel",
+    "seq2seq",
+    "information extraction",
+    "relation extraction",
+    "entity extraction",
+    "coreference resolution",
+]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+exclude = ["tests", "test_fixtures"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+typer = {extras = ["all"], version = "^0.4.1"}
+more-itertools = "^8.10.0"
+wasabi = "^0.8.2"
+pydantic = "^1.7.1"
+scikit-learn = "^0.24.1"
+boltons = "^21.0.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+codecov = "^2.1.11"
+coverage = "^5.5"
+flake8 = "^3.8.4"
+hypothesis = "^6.9.1"
+mypy = "^0.812"
+pytest = "^5.2"
+pytest-cov = "^2.11.1"
+
+[tool.poetry.scripts]
+seq2rel-ds = "seq2rel_ds.main:app"
+
+# This configuration is borrowed from: https://github.com/allenai/allennlp/blob/main/pyproject.toml
+[tool.black]
+line-length = 100
+
+include = '\.pyi?$'
+
+exclude = '''
+(
+      __pycache__
+    | \btutorials\b
+    | \bbuild\b
+    | \.git
+    | \.mypy_cache
+    | \.pytest_cache
+    | \.vscode
+    | \.venv
+    | \bdist\b
+    | \bdoc\b
+)
+'''
+
+[build-system]
+requires = ["poetry"]
+build-backend = "poetry.masonry.api"

@@ -1,8 +1,16 @@
-*.csv
-*.tsv
-*.txt
-*.json
 *.jsonl
-./NER/Xin codes/abstract_writer_31_01.csv
-./NER/Xin codes/SYNONYMS.json
-./NER/Xin codes/per_word_times_log.csv
+
+NER/max_matching/abstract_writer_31_01.csv
+NER/max_matching/SYNONYMS.json
+NER/max_matching/per_word_times_log.csv
+
+RE/BioGPT/checkpoints/
+RE/BioGPT/fairseq/
+RE/BioGPT/mosesdecoder/
+RE/BioGPT/fastBPE/
+RE/BioGPT/data/repo_for_test/BioGPT/
+RE/BioGPT/.git*
+
+BioGPT_use-conda/
+
+RE-BioGPT/biogpt/
