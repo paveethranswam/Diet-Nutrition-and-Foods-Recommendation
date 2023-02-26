@@ -10,7 +10,8 @@ RE/BioGPT/mosesdecoder/
 RE/BioGPT/fastBPE/
 RE/BioGPT/data/repo_for_test/BioGPT/
 RE/BioGPT/.git*
-
+RE/BioGPT/examples/RE-BC5CDR/biogpt_job.err
+RE/BioGPT/examples/RE-BC5CDR/biogpt_job_log
 
 BioGPT_use-conda/
 
