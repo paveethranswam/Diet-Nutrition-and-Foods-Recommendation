@@ -6,7 +6,7 @@ prefix=relis
 RAW_DATA_DIR=${DATA_DIR}/raw
 OUTPUT_DIR=${DATA_DIR}/${prefix}-bin
 
-ROOT=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/BioGPT
+ROOT=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE/BioGPT
 MOSE=${ROOT}/mosesdecoder
 FASTBPE=${ROOT}/fastBPE/
 
