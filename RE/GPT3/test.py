@@ -2,10 +2,15 @@ import os
 import openai
 
 # Load API key
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 prompt = "Say this is a test"
-         
-response = openai.Completion.create(model="text-davinci-003", prompt=prompt, temperature=0, max_tokens=7)
 
+prompt = "In the presence of inorganic phosphate, uridine 5'-diphosphate glucose (UDPG) is specifically hydrolyzed to glucose 1-phosphate and UDP by a unique enzyme, UDPG phosphorylase. The activity of the enzyme was maximally stimulated by fructose 2,6-bisphosphate, a regulatory metabolite recently discovered in both plants and animals, and by 2-phosphoglyceric acid. At 1 muM, fructose 2,6-bisphosphate stimulated UDPG phosphorolysis 10-fold, whereas 2-phosphoglyceric acid was required at higher concentrations (100 muM) to produce a similar effect. Fructose 2,6-bisphosphate appears to increase the affinity of the enzyme for inorganic phosphate, with a change in K(m) from 1.6 mM to 0.3 mM. The results suggest that fructose 2,6-bisphosphate participates in the regulation of other pathways of carbohydrate metabolism in addition to playing its recognized role in glycolysis and gluconeogenesis. \nList all metabolism chemical name entities in this biomedical abstract:"
+
+prompt = '''OBJECTIVE: The objective of this study was to determine the risk of lifetime and current methamphetamine-induced psychosis in patients with methamphetamine dependence. The association between psychiatric co-morbidity and methamphetamine-induced psychosis was also studied. METHODS: This was a cross-sectional study conducted concurrently at a teaching hospital and a drug rehabilitation center in Malaysia. Patients with the diagnosis of methamphetamine based on DSM-IV were interviewed using the Mini International Neuropsychiatric Interview (M.I.N.I.) for methamphetamine-induced psychosis and other Axis I psychiatric disorders. The information on sociodemographic background and drug use history was obtained from interview or medical records. RESULTS: Of 292 subjects, 47.9% of the subjects had a past history of psychotic symptoms and 13.0% of the patients were having current psychotic symptoms. Co-morbid major depressive disorder (OR=7.18, 95 CI=2.612-19.708), bipolar disorder (OR=13.807, 95 CI=5.194-36.706), antisocial personality disorder (OR=12.619, 95 CI=6.702-23.759) and heavy methamphetamine uses were significantly associated with lifetime methamphetamine-induced psychosis after adjusted for other factors. Major depressive disorder (OR=2.870, CI=1.154-7.142) and antisocial personality disorder (OR=3.299, 95 CI=1.375-7.914) were the only factors associated with current psychosis. CONCLUSION: There was a high risk of psychosis in patients with methamphetamine dependence. It was associated with co-morbid affective disorder, antisocial personality, and heavy methamphetamine use. It is recommended that all cases of methamphetamine dependence should be screened for psychotic symptoms.
+
+List all chemical and disease relations in this biomedical abstract by using this format: <chamecal, disease>:'''
+         
+response = openai.Completion.create(model="text-davinci-003", prompt=prompt, temperature=0, max_tokens=2048)
 print(response.choices[0].text)
