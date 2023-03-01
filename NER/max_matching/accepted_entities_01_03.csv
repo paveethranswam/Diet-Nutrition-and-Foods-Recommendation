@@ -1,0 +1,1408 @@
+Entity name,Entity label,Entity ID,Index of abstract in csv,Start position in document,End position in document
+hydroxy,Metabolites,Hydroxide,1,14,21
+2 - butanone,Metabolites,Butanone,1,24,36
+glucose,Metabolites,D-Glucose,1,1001,1008
+sugar,Metabolites,Sucrose,2,267,272
+alcohols,Metabolites,Ethanol,4,575,583
+hydroxy,Metabolites,Hydroxide,6,540,547
+2 - butanone,Metabolites,Butanone,6,550,562
+serine,Metabolites,L-Serine,7,1112,1118
+valine,Metabolites,L-Valine,7,1121,1127
+leucine,Metabolites,L-Leucine,7,1130,1137
+glycine,Metabolites,Glycine,7,1165,1172
+proline,Metabolites,L-Proline,7,1177,1184
+lysine,Metabolites,L-Lysine,8,222,228
+air,Metabolites,5-Aminoimidazole ribonucleotide,9,378,381
+glycerol,Metabolites,Glycerol,10,282,290
+sucrose,Metabolites,Sucrose,10,1161,1168
+fructose,Metabolites,D-Fructose,10,1171,1179
+glucose,Metabolites,D-Glucose,10,1183,1190
+sucrose,Metabolites,Sucrose,10,1808,1815
+sucrose,Metabolites,Sucrose,10,1877,1884
+glucose,Metabolites,D-Glucose,10,1991,1998
+fructose,Metabolites,D-Fructose,10,2001,2009
+sucrose,Metabolites,Sucrose,10,2013,2020
+acetic acid,Metabolites,Acetylglycine,11,1235,1246
+acetic acid,Metabolites,Acetylglycine,11,1375,1386
+glucose,Metabolites,D-Glucose,13,108,115
+lactate,Metabolites,Indoleacetic acid,14,182,189
+glucose,Metabolites,D-Glucose,14,418,425
+glucose,Metabolites,D-Glucose,14,631,638
+glucose,Metabolites,D-Glucose,14,941,948
+hydroxy,Metabolites,Hydroxide,16,283,290
+butanone,Metabolites,Butanone,16,291,299
+riboflavin,Metabolites,Riboflavin,17,340,350
+glucose,Metabolites,D-Glucose,17,789,796
+sugar,Metabolites,Sucrose,18,679,684
+hydroxy,Metabolites,Hydroxide,19,27,34
+2 - butanone,Metabolites,Butanone,19,37,49
+glucose,Metabolites,D-Glucose,19,660,667
+xylose,Metabolites,D-Xylose,19,672,678
+glucose,Metabolites,D-Glucose,19,866,873
+glucose,Metabolites,D-Glucose,19,1038,1045
+nicotinamide adenine dinucleotide,Metabolites,NAD,20,101,134
+Co,Metabolites,Cobalt,20,647,649
+lactic acid,Metabolites,Indoleacetic acid,21,173,184
+acetic acid,Metabolites,Acetylglycine,21,788,799
+glucose,Metabolites,D-Glucose,22,573,580
+glucose,Metabolites,D-Glucose,22,1317,1324
+ethanol,Metabolites,Ethanol,24,513,520
+glycerol,Metabolites,Glycerol,24,575,583
+acetic acid,Metabolites,Acetylglycine,24,631,642
+PDA,Metabolites,Deoxyadenosine monophosphate,25,292,295
+octanal,Metabolites,Octanal,25,623,630
+MEK,Metabolites,Butanone,26,20,23
+MEK,Metabolites,Butanone,26,193,196
+MEK,Metabolites,Butanone,26,326,329
+hydroxy,Metabolites,Hydroxide,26,714,721
+2 - butanone,Metabolites,Butanone,26,724,736
+MEK,Metabolites,Butanone,26,741,744
+MEK,Metabolites,Butanone,26,883,886
+glutathione,Metabolites,Glutathione,26,1034,1045
+glutathione,Metabolites,Glutathione,26,1110,1121
+MEK,Metabolites,Butanone,26,1317,1320
+acetate,Metabolites,Acetylglycine,29,1143,1150
+acetate,Metabolites,Acetylglycine,30,730,737
+glucose,Metabolites,D-Glucose,31,597,604
+phosphorus,Metabolites,Phosphorus,32,582,592
+acetate,Metabolites,Acetylglycine,34,1695,1702
+lactate,Metabolites,Indoleacetic acid,34,1708,1715
+acetate,Metabolites,Acetylglycine,34,1810,1817
+acetate,Metabolites,Acetylglycine,35,200,207
+glucose,Metabolites,D-Glucose,35,729,736
+acetate,Metabolites,Acetylglycine,35,771,778
+glucose,Metabolites,D-Glucose,35,861,868
+hydroxy,Metabolites,Hydroxide,36,96,103
+butanone,Metabolites,Butanone,36,104,112
+Mg2 +,Metabolites,Magnesium,36,1060,1065
+Ca2 +,Metabolites,Calcium,36,1068,1073
+xylose,Metabolites,D-Xylose,38,132,138
+xylose,Metabolites,D-Xylose,38,241,247
+xylose,Metabolites,D-Xylose,38,396,402
+xylose,Metabolites,D-Xylose,38,518,524
+xylose,Metabolites,D-Xylose,38,676,682
+xylose,Metabolites,D-Xylose,38,718,724
+xylose,Metabolites,D-Xylose,38,967,973
+glucose,Metabolites,D-Glucose,39,693,700
+lactic acid,Metabolites,Indoleacetic acid,40,51,62
+glucose,Metabolites,D-Glucose,41,1241,1248
+uridine,Metabolites,Uridine,42,18,25
+uridine,Metabolites,Uridine,42,175,182
+uridine,Metabolites,Uridine,42,319,326
+acetate,Metabolites,Acetylglycine,42,496,503
+uridine,Metabolites,Uridine,42,699,706
+glycerol,Metabolites,Glycerol,42,758,766
+uridine,Metabolites,Uridine,42,821,828
+uridine,Metabolites,Uridine,42,950,957
+uridine,Metabolites,Uridine,42,1172,1179
+acetyl - CoA,Metabolites,Acetyl-CoA,45,576,588
+glucose,Metabolites,D-Glucose,49,99,106
+lactate,Metabolites,Indoleacetic acid,49,368,375
+acetate,Metabolites,Acetylglycine,49,411,418
+ATP,Metabolites,Adenosine triphosphate,49,1121,1124
+glucose,Metabolites,D-Glucose,51,799,806
+glucose,Metabolites,D-Glucose,51,1179,1186
+glucose,Metabolites,D-Glucose,54,272,279
+glucose,Metabolites,D-Glucose,54,332,339
+histidine,Metabolites,L-Histidine,54,583,592
+acetate,Metabolites,Acetylglycine,54,883,890
+glucose,Metabolites,D-Glucose,54,1217,1224
+trehalose,Metabolites,Trehalose,55,734,743
+Al,Metabolites,Aluminum,59,196,198
+acetic acid,Metabolites,Acetylglycine,61,489,500
+ethanol,Metabolites,Ethanol,62,435,442
+glycerol,Metabolites,Glycerol,62,445,453
+alcohol,Metabolites,Ethanol,62,823,830
+glucose,Metabolites,D-Glucose,63,445,452
+glucose,Metabolites,D-Glucose,63,476,483
+glucose,Metabolites,D-Glucose,63,557,564
+acetate,Metabolites,Acetylglycine,63,607,614
+glucose,Metabolites,D-Glucose,63,700,707
+acetate,Metabolites,Acetylglycine,63,757,764
+glucose,Metabolites,D-Glucose,63,780,787
+acetate,Metabolites,Acetylglycine,64,129,136
+acetate,Metabolites,Acetylglycine,64,734,741
+acetate,Metabolites,Acetylglycine,64,920,927
+hydroxy,Metabolites,Hydroxide,65,921,928
+2 - butanone,Metabolites,Butanone,65,931,943
+lactic acid,Metabolites,Indoleacetic acid,66,25,36
+glucose,Metabolites,D-Glucose,66,967,974
+ribose,Metabolites,D-Ribose,66,977,983
+Arginine,Metabolites,L-Arginine,66,998,1006
+serine,Metabolites,L-Serine,66,1116,1122
+cysteine,Metabolites,L-Cysteine,66,1138,1146
+sugar,Metabolites,Sucrose,66,1369,1374
+nicotinamide adenine dinucleotide phosphate,Metabolites,NADP,67,324,367
+nicotinamide adenine dinucleotide,Metabolites,NAD,67,381,414
+lactate,Metabolites,Indoleacetic acid,68,881,888
+lactic acid,Metabolites,Indoleacetic acid,68,935,946
+glucose,Metabolites,D-Glucose,68,1180,1187
+glucose,Metabolites,D-Glucose,68,1306,1313
+acetate,Metabolites,Acetylglycine,70,557,564
+acetate,Metabolites,Acetylglycine,70,812,819
+lactic acid,Metabolites,Indoleacetic acid,71,679,690
+lactate,Metabolites,Indoleacetic acid,73,861,868
+glycerol,Metabolites,Glycerol,74,316,324
+indole acetic acid,Metabolites,Indoleacetic acid,76,290,308
+ammonia,Metabolites,Ammonia,76,325,332
+phosphorus,Metabolites,Phosphorus,76,349,359
+potassium,Metabolites,Potassium,76,364,373
+maltose,Metabolites,D-Maltose,76,911,918
+glucose,Metabolites,D-Glucose,76,923,930
+sulfur,Metabolites,Sulfide,78,284,290
+glucose,Metabolites,D-Glucose,80,410,417
+glucose,Metabolites,D-Glucose,80,517,524
+glucose,Metabolites,D-Glucose,80,931,938
+D - xylose,Metabolites,D-Xylose,82,608,618
+ATP,Metabolites,Adenosine triphosphate,82,640,643
+D - xylose,Metabolites,D-Xylose,82,940,950
+ATP,Metabolites,Adenosine triphosphate,82,1295,1298
+Lactic acid,Metabolites,Indoleacetic acid,84,640,651
+ethanol,Metabolites,Ethanol,84,654,661
+lactic acid,Metabolites,Indoleacetic acid,85,448,459
+lactate,Metabolites,Indoleacetic acid,85,670,677
+acetate,Metabolites,Acetylglycine,85,680,687
+ethanol,Metabolites,Ethanol,85,696,703
+mannitol,Metabolites,Mannitol,85,706,714
+lactate,Metabolites,Indoleacetic acid,86,1162,1169
+lactate,Metabolites,Indoleacetic acid,86,1286,1293
+lactate,Metabolites,Indoleacetic acid,86,1311,1318
+lactic acid,Metabolites,Indoleacetic acid,87,636,647
+hydroxy,Metabolites,Hydroxide,89,600,607
+2 - butanone,Metabolites,Butanone,89,610,622
+alcohol,Metabolites,Ethanol,90,1096,1103
+glucose,Metabolites,D-Glucose,91,500,507
+glucose,Metabolites,D-Glucose,91,700,707
+glucose,Metabolites,D-Glucose,91,732,739
+sugar,Metabolites,Sucrose,91,872,877
+glucose,Metabolites,D-Glucose,91,993,1000
+glucose,Metabolites,D-Glucose,91,1118,1125
+glucose,Metabolites,D-Glucose,91,1216,1223
+glucose,Metabolites,D-Glucose,91,1608,1615
+glucose,Metabolites,D-Glucose,91,1761,1768
+acetic acid,Metabolites,Acetylglycine,92,225,236
+acetic acid,Metabolites,Acetylglycine,92,378,389
+glucose,Metabolites,D-Glucose,92,866,873
+ethanol,Metabolites,Ethanol,92,878,885
+acetic acid,Metabolites,Acetylglycine,92,1318,1329
+acetic acid,Metabolites,Acetylglycine,92,2112,2123
+lactic acid,Metabolites,Indoleacetic acid,92,2126,2137
+acetate,Metabolites,Acetylglycine,92,2156,2163
+lactate,Metabolites,Indoleacetic acid,92,2172,2179
+hydroxyl,Metabolites,Hydroxide,93,14,22
+2 - butanone,Metabolites,Butanone,93,25,37
+lactic acid,Metabolites,Indoleacetic acid,93,1200,1211
+hydroxyl,Metabolites,Hydroxide,93,1286,1294
+2 - butanone,Metabolites,Butanone,93,1297,1309
+glucose,Metabolites,D-Glucose,94,376,383
+glucose,Metabolites,D-Glucose,94,815,822
+sulfur,Metabolites,Sulfide,96,433,439
+sucrose,Metabolites,Sucrose,96,862,869
+galactose,Metabolites,D-Galactose,96,872,881
+lactic acid,Metabolites,Indoleacetic acid,96,884,895
+acetic acid,Metabolites,Acetylglycine,96,1004,1015
+sulfide,Metabolites,Sulfide,96,1077,1084
+Lys,Metabolites,L-Lysine,98,474,477
+acetate,Metabolites,Acetylglycine,98,819,826
+Lys,Metabolites,L-Lysine,98,907,910
+glucose,Metabolites,D-Glucose,99,114,121
+glucose,Metabolites,D-Glucose,99,893,900
+glucose,Metabolites,D-Glucose,99,1322,1329
+glucose,Metabolites,D-Glucose,99,1795,1802
+alcohol,Metabolites,Ethanol,102,133,140
+alcohol,Metabolites,Ethanol,102,319,326
+ethanol,Metabolites,Ethanol,103,187,194
+ethanol,Metabolites,Ethanol,103,714,721
+ethanol,Metabolites,Ethanol,103,1545,1552
+lactate,Metabolites,Indoleacetic acid,104,868,875
+alcohol,Metabolites,Ethanol,106,106,113
+alcohol,Metabolites,Ethanol,106,728,735
+alcohol,Metabolites,Ethanol,106,1110,1117
+alcohol,Metabolites,Ethanol,106,1664,1671
+alcohol,Metabolites,Ethanol,106,1866,1873
+alcohol,Metabolites,Ethanol,108,80,87
+alcohol,Metabolites,Ethanol,108,102,109
+alcohol,Metabolites,Ethanol,108,504,511
+alcohol,Metabolites,Ethanol,108,914,921
+I2,Metabolites,Iodine,108,1342,1344
+I2,Metabolites,Iodine,108,1493,1495
+alcohol,Metabolites,Ethanol,108,2293,2300
+alcohol,Metabolites,Ethanol,108,2315,2322
+alcohol,Metabolites,Ethanol,109,224,231
+alcohol,Metabolites,Ethanol,114,82,89
+alcohol,Metabolites,Ethanol,114,554,561
+alcohol,Metabolites,Ethanol,114,608,615
+alcohol,Metabolites,Ethanol,116,84,91
+alcohol,Metabolites,Ethanol,116,636,643
+Alcohol,Metabolites,Ethanol,116,702,709
+alcohol,Metabolites,Ethanol,118,70,77
+alcohol,Metabolites,Ethanol,118,272,279
+alcohol,Metabolites,Ethanol,118,355,362
+potassium,Metabolites,Potassium,118,499,508
+serine,Metabolites,L-Serine,118,671,677
+ser,Metabolites,L-Serine,118,684,687
+alcohol,Metabolites,Ethanol,118,1015,1022
+alcohol,Metabolites,Ethanol,122,124,131
+alcohol,Metabolites,Ethanol,125,74,81
+alcohol,Metabolites,Ethanol,125,467,474
+alcohol,Metabolites,Ethanol,125,570,577
+alcohol,Metabolites,Ethanol,125,844,851
+alcohol,Metabolites,Ethanol,127,51,58
+alcohol,Metabolites,Ethanol,127,77,84
+alcohol,Metabolites,Ethanol,127,261,268
+alcohol,Metabolites,Ethanol,127,298,305
+alcohol,Metabolites,Ethanol,127,486,493
+alcohol,Metabolites,Ethanol,127,697,704
+alcohol,Metabolites,Ethanol,127,754,761
+alcohol,Metabolites,Ethanol,127,831,838
+alcohol,Metabolites,Ethanol,127,1119,1126
+alcohol,Metabolites,Ethanol,127,1410,1417
+alcohol,Metabolites,Ethanol,127,1554,1561
+alcohol,Metabolites,Ethanol,127,1915,1922
+alcohol,Metabolites,Ethanol,127,2244,2251
+levodopa,Metabolites,L-Dopa,128,525,533
+levodopa,Metabolites,L-Dopa,128,1149,1157
+Levodopa,Metabolites,L-Dopa,128,1322,1330
+PPI,Metabolites,Pyrophosphate,129,557,560
+PPI,Metabolites,Pyrophosphate,129,812,815
+PPI,Metabolites,Pyrophosphate,129,1362,1365
+PPI,Metabolites,Pyrophosphate,131,102,105
+PPI,Metabolites,Pyrophosphate,131,218,221
+PPI,Metabolites,Pyrophosphate,131,310,313
+PPI,Metabolites,Pyrophosphate,131,1503,1506
+Alcohol,Metabolites,Ethanol,132,15,22
+sodium,Metabolites,Sodium,132,252,258
+his,Metabolites,L-Histidine,135,98,101
+alcohol,Metabolites,Ethanol,136,108,115
+I2,Metabolites,Iodine,136,565,567
+I2,Metabolites,Iodine,136,1072,1074
+alcohol,Metabolites,Ethanol,136,1323,1330
+alcohol,Metabolites,Ethanol,137,738,745
+alcohol,Metabolites,Ethanol,138,578,585
+alcohol,Metabolites,Ethanol,140,22,29
+alcohol,Metabolites,Ethanol,140,128,135
+alcohol,Metabolites,Ethanol,140,419,426
+alcohol,Metabolites,Ethanol,140,1236,1243
+alcohol,Metabolites,Ethanol,140,1583,1590
+levodopa,Metabolites,L-Dopa,141,379,387
+levodopa,Metabolites,L-Dopa,141,639,647
+dopamine,Metabolites,Dopamine,142,858,866
+acetylcholine,Metabolites,Acetylcholine,142,871,884
+alcohol,Metabolites,Ethanol,143,22,29
+alcohol,Metabolites,Ethanol,143,124,131
+alcohol,Metabolites,Ethanol,143,188,195
+alcohol,Metabolites,Ethanol,143,254,261
+sodium,Metabolites,Sodium,143,1351,1357
+alcohol,Metabolites,Ethanol,149,1328,1335
+alcohol,Metabolites,Ethanol,149,1549,1556
+Alcohol,Metabolites,Ethanol,150,13,20
+alcohol,Metabolites,Ethanol,150,135,142
+alcohol,Metabolites,Ethanol,150,193,200
+Alcohol,Metabolites,Ethanol,150,734,741
+alcohol,Metabolites,Ethanol,150,1665,1672
+alcohol,Metabolites,Ethanol,150,1695,1702
+Alcohol,Metabolites,Ethanol,150,1898,1905
+alcohol,Metabolites,Ethanol,150,4008,4015
+air,Metabolites,5-Aminoimidazole ribonucleotide,152,1014,1017
+Alcohol,Metabolites,Ethanol,154,0,7
+alcohol,Metabolites,Ethanol,154,853,860
+alcohol,Metabolites,Ethanol,154,1526,1533
+alcohol,Metabolites,Ethanol,154,1810,1817
+alcohol,Metabolites,Ethanol,156,85,92
+alcohol,Metabolites,Ethanol,156,647,654
+levodopa,Metabolites,L-Dopa,159,329,337
+his,Metabolites,L-Histidine,161,771,774
+his,Metabolites,L-Histidine,161,987,990
+alcohols,Metabolites,Ethanol,162,975,983
+magnesium,Metabolites,Magnesium,162,1113,1122
+alcohol,Metabolites,Ethanol,164,78,85
+Alcohol,Metabolites,Ethanol,164,544,551
+Alcohol,Metabolites,Ethanol,164,1620,1627
+alcohol,Metabolites,Ethanol,164,2901,2908
+alcohol,Metabolites,Ethanol,166,108,115
+alcohol,Metabolites,Ethanol,166,460,467
+ethanol,Metabolites,Ethanol,166,581,588
+ethanol,Metabolites,Ethanol,166,697,704
+ethanol,Metabolites,Ethanol,166,992,999
+alcohol,Metabolites,Ethanol,166,1039,1046
+ethanol,Metabolites,Ethanol,166,1270,1277
+ethanol,Metabolites,Ethanol,166,1354,1361
+sucrose,Metabolites,Sucrose,166,1484,1491
+ethanol,Metabolites,Ethanol,166,1788,1795
+creatinine,Metabolites,Creatinine,169,1124,1134
+alanine,Metabolites,D-Alanine,169,1144,1151
+phenol,Metabolites,Phenol,172,461,467
+alcohol,Metabolites,Ethanol,174,83,90
+I2,Metabolites,Iodine,174,1042,1044
+I2,Metabolites,Iodine,174,1275,1277
+I2,Metabolites,Iodine,174,1403,1405
+alcohol,Metabolites,Ethanol,174,1539,1546
+alcohol,Metabolites,Ethanol,174,1874,1881
+Alcohol,Metabolites,Ethanol,175,13,20
+alcohol,Metabolites,Ethanol,175,46,53
+Alcohol,Metabolites,Ethanol,175,258,265
+alcohol,Metabolites,Ethanol,175,783,790
+Alcohol,Metabolites,Ethanol,175,857,864
+alcohol,Metabolites,Ethanol,175,1596,1603
+alcohol,Metabolites,Ethanol,175,5045,5052
+alcohol,Metabolites,Ethanol,177,58,65
+alcohol,Metabolites,Ethanol,177,328,335
+alcohol,Metabolites,Ethanol,179,78,85
+alcohol,Metabolites,Ethanol,179,418,425
+sugar,Metabolites,Sucrose,185,291,296
+phenol,Metabolites,Phenol,189,688,694
+hydroxy,Metabolites,Hydroxide,192,667,674
+spermidine,Metabolites,Spermidine,192,1016,1026
+glucose,Metabolites,D-Glucose,196,583,590
+glucose,Metabolites,D-Glucose,196,787,794
+creatinine,Metabolites,Creatinine,197,1101,1111
+creatinine,Metabolites,Creatinine,197,1498,1508
+Na +,Metabolites,Sodium,199,760,764
+K +,Metabolites,Potassium,199,789,792
+K +,Metabolites,Potassium,204,256,259
+K +,Metabolites,Potassium,204,477,480
+K +,Metabolites,Potassium,204,584,587
+K +,Metabolites,Potassium,204,767,770
+K +,Metabolites,Potassium,204,1103,1106
+OH,Metabolites,Hydroxide,205,722,724
+OH,Metabolites,Hydroxide,205,790,792
+OH,Metabolites,Hydroxide,205,1127,1129
+alcohol,Metabolites,Ethanol,205,1417,1424
+acetate,Metabolites,Acetylglycine,207,352,359
+ethanol,Metabolites,Ethanol,207,372,379
+β - d - glucose,Metabolites,D-Glucose,207,923,938
+β - d - glucose,Metabolites,D-Glucose,207,971,986
+hydroxy,Metabolites,Hydroxide,209,550,557
+air,Metabolites,5-Aminoimidazole ribonucleotide,210,1383,1386
+air,Metabolites,5-Aminoimidazole ribonucleotide,210,1559,1562
+reduced glutathione,Metabolites,Glutathione,211,1437,1456
+phenol,Metabolites,Phenol,214,482,488
+sugar,Metabolites,Sucrose,216,1190,1195
+hydroxy,Metabolites,Hydroxide,217,1114,1121
+calcium,Metabolites,Calcium,219,55,62
+uridine diphosphate,Metabolites,Uridine 5'-diphosphate,222,552,571
+hydroxy,Metabolites,Hydroxide,222,828,835
+ethanol,Metabolites,Ethanol,231,151,158
+glucose,Metabolites,D-Glucose,236,666,673
+cholesterol,Metabolites,Cholesterol,236,723,734
+cholesterol,Metabolites,Cholesterol,236,771,782
+cholesterol,Metabolites,Cholesterol,236,820,831
+geranyl pyrophosphate,Metabolites,Geranyl-PP,247,1132,1153
+his,Metabolites,L-Histidine,250,775,778
+creatinine,Metabolites,Creatinine,250,821,831
+His,Metabolites,L-Histidine,250,897,900
+aldosterone,Metabolites,Aldosterone,250,925,936
+cortisol,Metabolites,Cortisol,250,987,995
+Adrenal,Metabolites,Epinephrine,250,1430,1437
+his,Metabolites,L-Histidine,250,1581,1584
+serotonin,Metabolites,Serotonin,255,29,38
+ATP,Metabolites,Adenosine triphosphate,256,534,537
+ATP,Metabolites,Adenosine triphosphate,256,608,611
+ATP,Metabolites,Adenosine triphosphate,256,1119,1122
+ATP,Metabolites,Adenosine triphosphate,256,1219,1222
+ATP,Metabolites,Adenosine triphosphate,256,1428,1431
+cholesterol,Metabolites,Cholesterol,258,1030,1041
+acetyl CoA,Metabolites,Acetyl-CoA,258,1482,1492
+aluminum,Metabolites,Aluminum,258,1918,1926
+5 - hydroxytryptamine,Metabolites,Serotonin,260,336,357
+magnesium,Metabolites,Magnesium,261,2878,2887
+serotonin,Metabolites,Serotonin,266,119,128
+5 - HT,Metabolites,Serotonin,266,131,137
+5 - hydroxytryptamine,Metabolites,Serotonin,266,396,417
+serotonin,Metabolites,Serotonin,266,434,443
+cysteine,Metabolites,L-Cysteine,271,575,583
+serotonin,Metabolites,Serotonin,275,102,111
+PDA,Metabolites,Deoxyadenosine monophosphate,275,1509,1512
+HC,Metabolites,Cortisol,277,1028,1030
+glycerophosphocholine,Metabolites,Glycerophosphocholine,278,681,702
+choline,Metabolites,Choline,278,705,712
+l - glutamine,Metabolites,L-Glutamine,278,748,761
+creatine,Metabolites,Creatine,278,815,823
+alcohols,Metabolites,Ethanol,279,1189,1197
+aluminum,Metabolites,Aluminum,280,689,697
+d - galactose,Metabolites,D-Galactose,280,753,766
+gal,Metabolites,D-Galactose,280,773,776
+glutathione,Metabolites,Glutathione,281,448,459
+GSH,Metabolites,Glutathione,281,462,465
+hydroxy,Metabolites,Hydroxide,281,700,707
+glutathione,Metabolites,Glutathione,281,899,910
+GSH,Metabolites,Glutathione,281,1039,1042
+GSH,Metabolites,Glutathione,281,1115,1118
+GSH,Metabolites,Glutathione,281,1288,1291
+GSH,Metabolites,Glutathione,281,1754,1757
+cholesterol,Metabolites,Cholesterol,282,52,63
+hypochlorite,Metabolites,Hypochlorite,282,853,865
+hypochlorite,Metabolites,Hypochlorite,282,1387,1399
+maltose,Metabolites,D-Maltose,283,947,954
+coumarin,Metabolites,Coumarin,286,340,348
+Hydroxyl,Metabolites,Hydroxide,286,973,981
+coumarin,Metabolites,Coumarin,286,1324,1332
+coumarin,Metabolites,Coumarin,287,882,890
+Dopamine,Metabolites,Dopamine,290,0,8
+DT,Metabolites,Thymidine,290,178,180
+tyrosine,Metabolites,L-Tyrosine,290,421,429
+OH,Metabolites,Hydroxide,290,448,450
+dopamine,Metabolites,Dopamine,290,579,587
+DT,Metabolites,Thymidine,290,673,675
+DT,Metabolites,Thymidine,290,797,799
+OH,Metabolites,Hydroxide,290,1073,1075
+DT,Metabolites,Thymidine,290,1417,1419
+DT,Metabolites,Thymidine,290,1463,1465
+coumarin,Metabolites,Coumarin,291,883,891
+hydroxyl,Metabolites,Hydroxide,293,1292,1300
+pyridine,Metabolites,Pyridine,296,40,48
+pyridine,Metabolites,Pyridine,296,344,352
+pyridine,Metabolites,Pyridine,296,590,598
+pyridine,Metabolites,Pyridine,296,735,743
+glucose,Metabolites,D-Glucose,297,1179,1186
+glucose,Metabolites,D-Glucose,297,1207,1214
+glucose,Metabolites,D-Glucose,297,1432,1439
+Mannose,Metabolites,D-Mannose,297,1442,1449
+glucose,Metabolites,D-Glucose,297,1470,1477
+lactate,Metabolites,Indoleacetic acid,297,1545,1552
+glucose,Metabolites,D-Glucose,297,1845,1852
+coumarin,Metabolites,Coumarin,302,164,172
+coumarin,Metabolites,Coumarin,302,340,348
+glucose,Metabolites,D-Glucose,302,494,501
+air,Metabolites,5-Aminoimidazole ribonucleotide,303,138,141
+DT,Metabolites,Thymidine,305,43,45
+glutathione,Metabolites,Glutathione,306,305,316
+N - acetylglucosamine,Metabolites,eta-N-Acetylglucosamine,310,189,210
+acetyl CoA,Metabolites,Acetyl-CoA,310,724,734
+hydroxyl radical,Metabolites,Hydroxide,312,46,62
+OH,Metabolites,Hydroxide,312,67,69
+OH,Metabolites,Hydroxide,312,258,260
+OH,Metabolites,Hydroxide,312,602,604
+OH,Metabolites,Hydroxide,312,763,765
+ATP,Metabolites,Adenosine triphosphate,315,631,634
+reduced glutathione,Metabolites,Glutathione,315,656,675
+glucose,Metabolites,D-Glucose,316,242,249
+indol,Metabolites,Indole,319,159,164
+glutathione,Metabolites,Glutathione,320,193,204
+GSH,Metabolites,Glutathione,320,207,210
+GSH,Metabolites,Glutathione,320,415,418
+GSH,Metabolites,Glutathione,320,570,573
+GSH,Metabolites,Glutathione,320,589,592
+glutathione,Metabolites,Glutathione,320,606,617
+GSH,Metabolites,Glutathione,320,766,769
+GSH,Metabolites,Glutathione,320,919,922
+GSH,Metabolites,Glutathione,320,1156,1159
+GSH,Metabolites,Glutathione,320,1384,1387
+GSH,Metabolites,Glutathione,320,1482,1485
+glutathione,Metabolites,Glutathione,321,903,914
+GSH,Metabolites,Glutathione,321,917,920
+glutathione,Metabolites,Glutathione,321,926,937
+GSH,Metabolites,Glutathione,321,1295,1298
+calcium,Metabolites,Calcium,323,580,587
+phosphorus,Metabolites,Phosphorus,323,592,602
+flavin adenine dinucleotide,Metabolites,FAD,325,75,102
+β - alanine,Metabolites,eta-Alanine,327,13,24
+β - alanine,Metabolites,eta-Alanine,327,244,255
+β - alanine,Metabolites,eta-Alanine,327,711,722
+β - alanine,Metabolites,eta-Alanine,327,954,965
+β - alanine,Metabolites,eta-Alanine,327,1024,1035
+β - alanine,Metabolites,eta-Alanine,327,1129,1140
+β - alanine,Metabolites,eta-Alanine,327,1332,1343
+β - alanine,Metabolites,eta-Alanine,327,1484,1495
+β - Alanine,Metabolites,eta-Alanine,328,0,11
+β - alanine,Metabolites,eta-Alanine,328,117,128
+carnosine,Metabolites,Carnosine,328,284,293
+carnosine,Metabolites,Carnosine,328,348,357
+carnosine,Metabolites,Carnosine,328,477,486
+β - alanine,Metabolites,eta-Alanine,328,612,623
+carnosine,Metabolites,Carnosine,328,767,776
+β - alanine,Metabolites,eta-Alanine,328,793,804
+carnosine,Metabolites,Carnosine,328,818,827
+β - alanine,Metabolites,eta-Alanine,329,0,11
+glycine,Metabolites,Glycine,329,38,45
+β - alanine,Metabolites,eta-Alanine,329,211,222
+glycine,Metabolites,Glycine,329,315,322
+β - alanine,Metabolites,eta-Alanine,329,453,464
+β - alanine,Metabolites,eta-Alanine,329,560,571
+β - alanine,Metabolites,eta-Alanine,329,807,818
+glycine,Metabolites,Glycine,329,829,836
+β - alanine,Metabolites,eta-Alanine,329,902,913
+glycine,Metabolites,Glycine,329,1002,1009
+β - alanine,Metabolites,eta-Alanine,329,1062,1073
+glycine,Metabolites,Glycine,329,1110,1117
+cortisol,Metabolites,Cortisol,330,746,754
+β - alanine,Metabolites,eta-Alanine,332,76,87
+carnosine,Metabolites,Carnosine,332,165,174
+carnosine,Metabolites,Carnosine,332,208,217
+β - alanine,Metabolites,eta-Alanine,332,424,435
+β - alanine,Metabolites,eta-Alanine,332,441,452
+β - alanine,Metabolites,eta-Alanine,332,564,575
+β - alanine,Metabolites,eta-Alanine,332,813,824
+β - alanine,Metabolites,eta-Alanine,332,999,1010
+carnosine,Metabolites,Carnosine,332,1099,1108
+β - alanine,Metabolites,eta-Alanine,332,1113,1124
+β - alanine,Metabolites,eta-Alanine,332,1179,1190
+β - alanine,Metabolites,eta-Alanine,332,1285,1296
+carnosine,Metabolites,Carnosine,332,1322,1331
+β - alanine,Metabolites,eta-Alanine,332,1391,1402
+taurine,Metabolites,Taurine,332,1415,1422
+β - alanine,Metabolites,eta-Alanine,332,1576,1587
+β - alanine,Metabolites,eta-Alanine,332,1667,1678
+β - alanine,Metabolites,eta-Alanine,332,1821,1832
+β - alanine,Metabolites,eta-Alanine,332,1913,1924
+carnosine,Metabolites,Carnosine,332,1975,1984
+taurine,Metabolites,Taurine,332,1998,2005
+β - alanine,Metabolites,eta-Alanine,332,2059,2070
+carnosine,Metabolites,Carnosine,332,2119,2128
+carnosine,Metabolites,Carnosine,332,2230,2239
+β - alanine,Metabolites,eta-Alanine,333,45,56
+β - alanine,Metabolites,eta-Alanine,333,175,186
+β - alanine,Metabolites,eta-Alanine,333,308,319
+β - alanine,Metabolites,eta-Alanine,333,397,408
+Beta - alanine,Metabolites,eta-Alanine,334,15,29
+beta - alanine,Metabolites,eta-Alanine,334,561,575
+beta - alanine,Metabolites,eta-Alanine,334,582,596
+carnosine,Metabolites,Carnosine,334,616,625
+carnosine,Metabolites,Carnosine,334,633,642
+lactate,Metabolites,Indoleacetic acid,334,1013,1020
+β - alanine,Metabolites,eta-Alanine,335,817,828
+β - alanine,Metabolites,eta-Alanine,335,1129,1140
+Beta - alanine,Metabolites,eta-Alanine,336,0,14
+I2,Metabolites,Iodine,336,1288,1290
+I2,Metabolites,Iodine,336,1386,1388
+I2,Metabolites,Iodine,336,1486,1488
+β - alanine,Metabolites,eta-Alanine,337,25,36
+β - alanine,Metabolites,eta-Alanine,337,307,318
+β - Alanine,Metabolites,eta-Alanine,337,1488,1499
+β - alanine,Metabolites,eta-Alanine,337,1696,1707
+β - Alanine,Metabolites,eta-Alanine,338,13,24
+β - Alanine,Metabolites,eta-Alanine,338,2333,2344
+β - Alanine,Metabolites,eta-Alanine,340,0,11
+carnosine,Metabolites,Carnosine,340,182,191
+anserine,Metabolites,Anserine,340,194,202
+dihydrouracil,Metabolites,Dihydrouracil,340,220,233
+β - alanine,Metabolites,eta-Alanine,340,309,320
+Lactate,Metabolites,Indoleacetic acid,340,449,456
+adenosine triphosphate,Metabolites,Adenosine triphosphate,340,563,585
+ATP,Metabolites,Adenosine triphosphate,340,588,591
+β - Alanine,Metabolites,eta-Alanine,340,718,729
+β - alanine,Metabolites,eta-Alanine,340,885,896
+ATP,Metabolites,Adenosine triphosphate,340,918,921
+β - alanine,Metabolites,eta-Alanine,340,1116,1127
+β - alanine,Metabolites,eta-Alanine,340,1155,1166
+β - alanine,Metabolites,eta-Alanine,340,1332,1343
+Carnosine,Metabolites,Carnosine,341,10,19
+β - alanine,Metabolites,eta-Alanine,341,47,58
+L - histidine,Metabolites,L-Histidine,341,63,76
+β - alanine,Metabolites,eta-Alanine,341,126,137
+carnosine,Metabolites,Carnosine,341,172,181
+carnosine,Metabolites,Carnosine,341,246,255
+L - histidine,Metabolites,L-Histidine,341,292,305
+carnosine,Metabolites,Carnosine,341,325,334
+L - histidine,Metabolites,L-Histidine,341,418,431
+carnosine,Metabolites,Carnosine,341,466,475
+β - alanine,Metabolites,eta-Alanine,341,560,571
+β - alanine,Metabolites,eta-Alanine,341,730,741
+L - histidine,Metabolites,L-Histidine,341,763,776
+HIS,Metabolites,L-Histidine,341,779,782
+HIS,Metabolites,L-Histidine,341,830,833
+carnosine,Metabolites,Carnosine,341,919,928
+β - alanine,Metabolites,eta-Alanine,341,1152,1163
+histidine,Metabolites,L-Histidine,341,1166,1175
+carnosine,Metabolites,Carnosine,341,1182,1191
+HIS,Metabolites,L-Histidine,341,1281,1284
+carnosine,Metabolites,Carnosine,341,1309,1318
+carnosine,Metabolites,Carnosine,341,1420,1429
+HIS,Metabolites,L-Histidine,341,1444,1447
+Histidine,Metabolites,L-Histidine,341,1475,1484
+β - alanine,Metabolites,eta-Alanine,341,1618,1629
+L - histidine,Metabolites,L-Histidine,341,1634,1647
+β - alanine,Metabolites,eta-Alanine,341,1712,1723
+L - histidine,Metabolites,L-Histidine,341,1734,1747
+carnosine,Metabolites,Carnosine,341,1787,1796
+L - histidine,Metabolites,L-Histidine,341,1849,1862
+β - alanine,Metabolites,eta-Alanine,341,1956,1967
+β - alanine,Metabolites,eta-Alanine,342,282,293
+β - alanine,Metabolites,eta-Alanine,342,426,437
+β - alanine,Metabolites,eta-Alanine,342,975,986
+glucose,Metabolites,D-Glucose,342,1073,1080
+β - alanine,Metabolites,eta-Alanine,342,1665,1676
+sodium carbonate,Metabolites,Hydrogen carbonate,343,24,40
+β - alanine,Metabolites,eta-Alanine,343,59,70
+β - alanine,Metabolites,eta-Alanine,343,92,103
+β - alanine,Metabolites,eta-Alanine,343,619,630
+β - alanine,Metabolites,eta-Alanine,343,759,770
+β - alanine,Metabolites,eta-Alanine,343,858,869
+β - alanine,Metabolites,eta-Alanine,343,930,941
+β - alanine,Metabolites,eta-Alanine,343,1052,1063
+β - alanine,Metabolites,eta-Alanine,343,1322,1333
+β - alanine,Metabolites,eta-Alanine,344,20,31
+glucose,Metabolites,D-Glucose,344,37,44
+β - alanine,Metabolites,eta-Alanine,344,145,156
+β - alanine,Metabolites,eta-Alanine,344,241,252
+L - lysine,Metabolites,L-Lysine,344,259,269
+lactate,Metabolites,Indoleacetic acid,344,512,519
+alanine,Metabolites,D-Alanine,344,538,545
+valine,Metabolites,L-Valine,344,548,554
+β - alanine,Metabolites,eta-Alanine,344,582,593
+β - alanine,Metabolites,eta-Alanine,344,783,794
+β - alanine,Metabolites,eta-Alanine,344,914,925
+β - alanine,Metabolites,eta-Alanine,344,948,959
+β - alanine,Metabolites,eta-Alanine,344,1152,1163
+β - alanine,Metabolites,eta-Alanine,344,1242,1253
+lactate,Metabolites,Indoleacetic acid,344,1281,1288
+L - alanine,Metabolites,L-Alanine,344,1341,1352
+β - alanine,Metabolites,eta-Alanine,344,1468,1479
+glucose,Metabolites,D-Glucose,344,1532,1539
+β - alanine,Metabolites,eta-Alanine,344,1689,1700
+β - alanine,Metabolites,eta-Alanine,344,1733,1744
+L - lysine,Metabolites,L-Lysine,344,1762,1772
+β - alanine,Metabolites,eta-Alanine,344,1985,1996
+β - alanine,Metabolites,eta-Alanine,344,2088,2099
+β - alanine,Metabolites,eta-Alanine,344,2121,2132
+β - alanine,Metabolites,eta-Alanine,345,57,68
+β - alanine,Metabolites,eta-Alanine,345,348,359
+β - alanine,Metabolites,eta-Alanine,345,503,514
+β - alanine,Metabolites,eta-Alanine,345,620,631
+β - alanine,Metabolites,eta-Alanine,345,912,923
+β - alanine,Metabolites,eta-Alanine,345,1033,1044
+β - alanine,Metabolites,eta-Alanine,345,1144,1155
+β - alanine,Metabolites,eta-Alanine,345,1249,1260
+β - alanine,Metabolites,eta-Alanine,345,1416,1427
+Taurine,Metabolites,Taurine,346,0,7
+sulfur,Metabolites,Sulfide,346,21,27
+taurine,Metabolites,Taurine,346,113,120
+taurine,Metabolites,Taurine,346,260,267
+taurine,Metabolites,Taurine,346,294,301
+β - Alanine,Metabolites,eta-Alanine,346,357,368
+taurine,Metabolites,Taurine,346,390,397
+taurine,Metabolites,Taurine,346,489,496
+taurine,Metabolites,Taurine,346,623,630
+taurine,Metabolites,Taurine,346,732,739
+β - alanine,Metabolites,eta-Alanine,346,758,769
+taurine,Metabolites,Taurine,346,896,903
+β - alanine,Metabolites,eta-Alanine,346,970,981
+taurine,Metabolites,Taurine,346,1065,1072
+β - alanine,Metabolites,eta-Alanine,346,1148,1159
+taurine,Metabolites,Taurine,346,1185,1192
+β - alanine,Metabolites,eta-Alanine,346,1265,1276
+β - Alanine,Metabolites,eta-Alanine,346,1285,1296
+taurine,Metabolites,Taurine,346,1339,1346
+taurine,Metabolites,Taurine,346,1514,1521
+taurine,Metabolites,Taurine,346,1620,1627
+beta - alanine,Metabolites,eta-Alanine,347,60,74
+beta - alanine,Metabolites,eta-Alanine,347,400,414
+beta - alanine,Metabolites,eta-Alanine,347,458,472
+beta - alanine,Metabolites,eta-Alanine,347,610,624
+beta - alanine,Metabolites,eta-Alanine,347,786,800
+beta - alanine,Metabolites,eta-Alanine,347,996,1010
+beta - alanine,Metabolites,eta-Alanine,347,1204,1218
+beta - alanine,Metabolites,eta-Alanine,347,1438,1452
+β - alanine,Metabolites,eta-Alanine,348,25,36
+β - alanine,Metabolites,eta-Alanine,348,314,325
+β - alanine,Metabolites,eta-Alanine,348,537,548
+β - alanine,Metabolites,eta-Alanine,348,606,617
+β - Alanine,Metabolites,eta-Alanine,348,1220,1231
+β - alanine,Metabolites,eta-Alanine,348,1393,1404
+β - alanine,Metabolites,eta-Alanine,348,1538,1549
+β - alanine,Metabolites,eta-Alanine,348,1679,1690
+β - alanine,Metabolites,eta-Alanine,348,1751,1762
+β - alanine,Metabolites,eta-Alanine,349,42,53
+β - alanine,Metabolites,eta-Alanine,349,236,247
+β - alanine,Metabolites,eta-Alanine,349,1075,1086
+glycerol,Metabolites,Glycerol,349,1119,1127
+β - alanine,Metabolites,eta-Alanine,349,1169,1180
+β - alanine,Metabolites,eta-Alanine,349,1335,1346
+β - alanine,Metabolites,eta-Alanine,349,1432,1443
+β - alanine,Metabolites,eta-Alanine,349,1501,1512
+Carnosine,Metabolites,Carnosine,350,0,9
+histidine,Metabolites,L-Histidine,350,25,34
+beta - alanine,Metabolites,eta-Alanine,350,97,111
+L - histidine,Metabolites,L-Histidine,350,116,129
+beta - alanine,Metabolites,eta-Alanine,350,367,381
+carnosine,Metabolites,Carnosine,350,409,418
+beta - alanine,Metabolites,eta-Alanine,350,517,531
+carnosine,Metabolites,Carnosine,350,554,563
+carnosine,Metabolites,Carnosine,350,601,610
+beta - alanine,Metabolites,eta-Alanine,350,615,629
+carnosine,Metabolites,Carnosine,350,679,688
+beta - alanine,Metabolites,eta-Alanine,350,749,763
+carnosine,Metabolites,Carnosine,350,884,893
+beta - alanine,Metabolites,eta-Alanine,350,909,923
+beta - alanine,Metabolites,eta-Alanine,350,991,1005
+carnosine,Metabolites,Carnosine,350,1201,1210
+carnosine,Metabolites,Carnosine,350,1309,1318
+beta - alanine,Metabolites,eta-Alanine,350,1331,1345
+norepinephrine,Metabolites,Norepinephrine,352,137,151
+alcohol,Metabolites,Ethanol,352,570,577
+β - alanine,Metabolites,eta-Alanine,353,54,65
+β - Alanine,Metabolites,eta-Alanine,353,210,221
+carnosine,Metabolites,Carnosine,353,393,402
+L - histidine,Metabolites,L-Histidine,353,426,439
+β - alanine,Metabolites,eta-Alanine,353,493,504
+β - alanine,Metabolites,eta-Alanine,353,685,696
+β - alanine,Metabolites,eta-Alanine,353,964,975
+β - alanine,Metabolites,eta-Alanine,353,1833,1844
+sodium,Metabolites,Sodium,353,2101,2107
+β - alanine,Metabolites,eta-Alanine,354,60,71
+lactate,Metabolites,Indoleacetic acid,354,122,129
+β - alanine,Metabolites,eta-Alanine,354,239,250
+β - alanine,Metabolites,eta-Alanine,354,336,347
+lactate,Metabolites,Indoleacetic acid,354,501,508
+β - alanine,Metabolites,eta-Alanine,354,886,897
+β - alanine,Metabolites,eta-Alanine,354,1099,1110
+β - alanine,Metabolites,eta-Alanine,354,1228,1239
+lactate,Metabolites,Indoleacetic acid,354,1268,1275
+β - alanine,Metabolites,eta-Alanine,354,1315,1326
+β - alanine,Metabolites,eta-Alanine,354,1489,1500
+lactate,Metabolites,Indoleacetic acid,354,1569,1576
+β - alanine,Metabolites,eta-Alanine,356,98,109
+carnosine,Metabolites,Carnosine,356,136,145
+β - alanine,Metabolites,eta-Alanine,356,234,245
+carnosine,Metabolites,Carnosine,356,287,296
+carnosine,Metabolites,Carnosine,356,373,382
+β - alanine,Metabolites,eta-Alanine,356,472,483
+β - alanine,Metabolites,eta-Alanine,356,590,601
+carnosine,Metabolites,Carnosine,356,677,686
+carnosine,Metabolites,Carnosine,356,716,725
+carnosine,Metabolites,Carnosine,356,765,774
+hydroxy,Metabolites,Hydroxide,356,781,788
+carnosine,Metabolites,Carnosine,356,833,842
+hydroxy,Metabolites,Hydroxide,356,849,856
+β - alanine,Metabolites,eta-Alanine,356,935,946
+carnosine,Metabolites,Carnosine,356,980,989
+β - alanine,Metabolites,eta-Alanine,356,1150,1161
+carnosine,Metabolites,Carnosine,356,1356,1365
+β - alanine,Metabolites,eta-Alanine,356,1548,1559
+carnosine,Metabolites,Carnosine,356,1765,1774
+glycine,Metabolites,Glycine,357,148,155
+β - alanine,Metabolites,eta-Alanine,357,158,169
+L - lysine,Metabolites,L-Lysine,357,176,186
+β - alanine,Metabolites,eta-Alanine,357,472,483
+L - lysine,Metabolites,L-Lysine,357,488,498
+L - lysine,Metabolites,L-Lysine,357,719,729
+β - alanine,Metabolites,eta-Alanine,357,828,839
+β - alanine,Metabolites,eta-Alanine,357,922,933
+L - lysine,Metabolites,L-Lysine,357,943,953
+β - alanine,Metabolites,eta-Alanine,357,1098,1109
+glutamine,Metabolites,L-Glutamine,358,431,440
+arginine,Metabolites,L-Arginine,358,443,451
+leucine,Metabolites,L-Leucine,358,454,461
+β - alanine,Metabolites,eta-Alanine,358,744,755
+β - alanine,Metabolites,eta-Alanine,359,0,11
+carnosine,Metabolites,Carnosine,359,73,82
+Carnosine,Metabolites,Carnosine,359,104,113
+carnosine,Metabolites,Carnosine,359,241,250
+β - alanine,Metabolites,eta-Alanine,359,292,303
+carnosine,Metabolites,Carnosine,359,382,391
+β - alanine,Metabolites,eta-Alanine,359,434,445
+carnosine,Metabolites,Carnosine,359,482,491
+β - alanine,Metabolites,eta-Alanine,359,735,746
+β - alanine,Metabolites,eta-Alanine,359,754,765
+β - alanine,Metabolites,eta-Alanine,359,1269,1280
+β - alanine,Metabolites,eta-Alanine,359,1392,1403
+β - alanine,Metabolites,eta-Alanine,359,1447,1458
+β - alanine,Metabolites,eta-Alanine,359,1561,1572
+β - alanine,Metabolites,eta-Alanine,359,1726,1737
+β - alanine,Metabolites,eta-Alanine,359,1823,1834
+β - alanine,Metabolites,eta-Alanine,359,1987,1998
+β - alanine,Metabolites,eta-Alanine,359,2049,2060
+β - Alanine,Metabolites,eta-Alanine,360,0,11
+3 - aminopropionic acid,Metabolites,eta-Alanine,360,14,37
+β - alanine,Metabolites,eta-Alanine,360,279,290
+β - alanine,Metabolites,eta-Alanine,360,373,384
+β - alanine,Metabolites,eta-Alanine,360,509,520
+β - alanine,Metabolites,eta-Alanine,360,669,680
+β - alanine,Metabolites,eta-Alanine,360,1032,1043
+β - alanine,Metabolites,eta-Alanine,360,1193,1204
+β - alanine,Metabolites,eta-Alanine,360,1498,1509
+creatine,Metabolites,Creatine,361,591,599
+sodium,Metabolites,Sodium,361,613,619
+beta - alanine,Metabolites,eta-Alanine,361,634,648
+calcium,Metabolites,Calcium,361,679,686
+creatine,Metabolites,Creatine,361,833,841
+beta - alanine,Metabolites,eta-Alanine,361,1039,1053
+sodium,Metabolites,Sodium,361,1058,1064
+calcium,Metabolites,Calcium,361,1234,1241
+β - alanine,Metabolites,eta-Alanine,362,435,446
+β - Alanine,Metabolites,eta-Alanine,363,0,11
+Ala,Metabolites,L-Alanine,363,18,21
+Ala,Metabolites,L-Alanine,363,385,388
+Ala,Metabolites,L-Alanine,363,665,668
+Ala,Metabolites,L-Alanine,363,865,868
+Ala,Metabolites,L-Alanine,363,1062,1065
+Ala,Metabolites,L-Alanine,363,1188,1191
+β - alanine,Metabolites,eta-Alanine,365,539,550
+β - Alanine,Metabolites,eta-Alanine,365,599,610
+β - alanine,Metabolites,eta-Alanine,365,890,901
+β - alanine,Metabolites,eta-Alanine,365,945,956
+β - alanine,Metabolites,eta-Alanine,365,1316,1327
+betaine,Metabolites,Betaine,365,1328,1335
+spermine,Metabolites,Spermine,365,1428,1436
+spermidine,Metabolites,Spermidine,365,1439,1449
+uracil,Metabolites,Uracil,365,1467,1473
+β - alanine,Metabolites,eta-Alanine,365,1510,1521
+β - alanine,Metabolites,eta-Alanine,365,1628,1639
+glycine,Metabolites,Glycine,366,268,275
+glycine,Metabolites,Glycine,366,382,389
+glycine,Metabolites,Glycine,366,452,459
+β - alanine,Metabolites,eta-Alanine,366,479,490
+β - alanine,Metabolites,eta-Alanine,366,588,599
+glucose,Metabolites,D-Glucose,366,1109,1116
+β - alanine,Metabolites,eta-Alanine,366,1192,1203
+β - alanine,Metabolites,eta-Alanine,366,1347,1358
+β - alanine,Metabolites,eta-Alanine,366,1646,1657
+β - alanine,Metabolites,eta-Alanine,366,1806,1817
+glycine,Metabolites,Glycine,366,1876,1883
+β - alanine,Metabolites,eta-Alanine,367,31,42
+β - alanine,Metabolites,eta-Alanine,367,290,301
+β - alanine,Metabolites,eta-Alanine,367,520,531
+lactate,Metabolites,Indoleacetic acid,367,850,857
+Lactate,Metabolites,Indoleacetic acid,367,1389,1396
+β - alanine,Metabolites,eta-Alanine,367,1743,1754
+hydroxy,Metabolites,Hydroxide,368,11,18
+glucose,Metabolites,D-Glucose,368,301,308
+glycerol,Metabolites,Glycerol,368,312,320
+malonyl - CoA,Metabolites,Malonyl-CoA,368,635,648
+β - alanine,Metabolites,eta-Alanine,368,675,686
+malonyl - CoA,Metabolites,Malonyl-CoA,368,892,905
+creatine,Metabolites,Creatine,369,515,523
+sodium,Metabolites,Sodium,369,559,565
+beta - alanine,Metabolites,eta-Alanine,369,580,594
+sodium,Metabolites,Sodium,369,764,770
+Beta - alanine,Metabolites,eta-Alanine,369,858,872
+creatine,Metabolites,Creatine,369,977,985
+β - alanine,Metabolites,eta-Alanine,370,68,79
+β - alanine,Metabolites,eta-Alanine,370,289,300
+β - alanine,Metabolites,eta-Alanine,370,325,336
+β - alanine,Metabolites,eta-Alanine,370,405,416
+β - alanine,Metabolites,eta-Alanine,370,472,483
+β - alanine,Metabolites,eta-Alanine,370,612,623
+β - alanine,Metabolites,eta-Alanine,371,1088,1099
+hydroxy,Metabolites,Hydroxide,371,1117,1124
+β - alanine,Metabolites,eta-Alanine,372,18,29
+histidine,Metabolites,L-Histidine,372,82,91
+β - alanine,Metabolites,eta-Alanine,372,153,164
+β - alanine,Metabolites,eta-Alanine,372,305,316
+β - alanine,Metabolites,eta-Alanine,372,428,439
+histidine,Metabolites,L-Histidine,372,471,480
+β - alanine,Metabolites,eta-Alanine,372,686,697
+β - alanine,Metabolites,eta-Alanine,372,820,831
+histidine,Metabolites,L-Histidine,372,900,909
+histidine,Metabolites,L-Histidine,372,1010,1019
+β - alanine,Metabolites,eta-Alanine,372,1070,1081
+histidine,Metabolites,L-Histidine,372,1258,1267
+β - alanine,Metabolites,eta-Alanine,372,1358,1369
+β - alanine,Metabolites,eta-Alanine,372,1520,1531
+β - alanine,Metabolites,eta-Alanine,372,1731,1742
+β - alanine,Metabolites,eta-Alanine,372,1815,1826
+histidine,Metabolites,L-Histidine,372,1831,1840
+β - alanine,Metabolites,eta-Alanine,374,27,38
+norepinephrine,Metabolites,Norepinephrine,375,790,804
+histamine,Metabolites,Histamine,376,226,235
+adrenal,Metabolites,Epinephrine,376,325,332
+β - alanine,Metabolites,eta-Alanine,376,372,383
+ALA,Metabolites,L-Alanine,376,390,393
+ALA,Metabolites,L-Alanine,376,548,551
+histamine,Metabolites,Histamine,376,631,640
+histamine,Metabolites,Histamine,376,798,807
+ALA,Metabolites,L-Alanine,376,963,966
+carnosine,Metabolites,Carnosine,377,133,142
+beta - Alanine,Metabolites,eta-Alanine,377,154,168
+β - alanine,Metabolites,eta-Alanine,377,171,182
+carnosine,Metabolites,Carnosine,377,223,232
+β - alanine,Metabolites,eta-Alanine,377,564,575
+T4,Metabolites,Thyroxine,377,875,877
+Lactate,Metabolites,Indoleacetic acid,377,882,889
+T4,Metabolites,Thyroxine,377,1532,1534
+T4,Metabolites,Thyroxine,377,1579,1581
+T4,Metabolites,Thyroxine,377,1664,1666
+lactate,Metabolites,Indoleacetic acid,377,1716,1723
+lactate,Metabolites,Indoleacetic acid,377,1834,1841
+lactate,Metabolites,Indoleacetic acid,377,1890,1897
+lactate,Metabolites,Indoleacetic acid,377,2245,2252
+β - alanine,Metabolites,eta-Alanine,378,44,55
+β - alanine,Metabolites,eta-Alanine,378,406,417
+dextrose,Metabolites,D-Glucose,378,575,583
+β - alanine,Metabolites,eta-Alanine,378,587,598
+β - alanine,Metabolites,eta-Alanine,378,676,687
+β - alanine,Metabolites,eta-Alanine,378,914,925
+β - alanine,Metabolites,eta-Alanine,378,1213,1224
+β - alanine,Metabolites,eta-Alanine,379,332,343
+β - alanine,Metabolites,eta-Alanine,379,732,743
+β - alanine,Metabolites,eta-Alanine,379,813,824
+calcium,Metabolites,Calcium,379,851,858
+β - alanine,Metabolites,eta-Alanine,379,879,890
+β - alanine,Metabolites,eta-Alanine,379,1049,1060
+β - alanine,Metabolites,eta-Alanine,380,0,11
+β - alanine,Metabolites,eta-Alanine,380,212,223
+β - alanine,Metabolites,eta-Alanine,380,321,332
+β - alanine,Metabolites,eta-Alanine,380,440,451
+β - alanine,Metabolites,eta-Alanine,380,512,523
+β - alanine,Metabolites,eta-Alanine,380,637,648
+β - alanine,Metabolites,eta-Alanine,380,859,870
+β - alanine,Metabolites,eta-Alanine,380,933,944
+β - alanine,Metabolites,eta-Alanine,380,1092,1103
+carnosine,Metabolites,Carnosine,381,300,309
+histidine,Metabolites,L-Histidine,381,352,361
+beta - alanine,Metabolites,eta-Alanine,381,366,380
+carnosine,Metabolites,Carnosine,381,390,399
+beta - alanine,Metabolites,eta-Alanine,381,439,453
+carnosine,Metabolites,Carnosine,381,615,624
+carnosine,Metabolites,Carnosine,381,700,709
+carnosine,Metabolites,Carnosine,381,816,825
+carnosine,Metabolites,Carnosine,381,1042,1051
+β - alanine,Metabolites,eta-Alanine,382,97,108
+β - alanine,Metabolites,eta-Alanine,382,460,471
+Beta - alanine,Metabolites,eta-Alanine,382,480,494
+carnosine,Metabolites,Carnosine,382,599,608
+β - alanine,Metabolites,eta-Alanine,382,788,799
+carnosine,Metabolites,Carnosine,382,1052,1061
+β - alanine,Metabolites,eta-Alanine,382,2024,2035
+Co,Metabolites,Cobalt,382,2063,2065
+sodium,Metabolites,Sodium,382,2089,2095
+β - alanine,Metabolites,eta-Alanine,382,2237,2248
+β - alanine,Metabolites,eta-Alanine,382,2452,2463
+carnosine,Metabolites,Carnosine,383,52,61
+β - alanine,Metabolites,eta-Alanine,383,97,108
+carnosine,Metabolites,Carnosine,383,301,310
+β - alanine,Metabolites,eta-Alanine,383,314,325
+glucose,Metabolites,D-Glucose,383,549,556
+glucose,Metabolites,D-Glucose,383,609,616
+glucose,Metabolites,D-Glucose,383,629,636
+glucose,Metabolites,D-Glucose,383,1557,1564
+glucose,Metabolites,D-Glucose,383,1719,1726
+carnosine,Metabolites,Carnosine,383,2485,2494
+β - alanine,Metabolites,eta-Alanine,383,2498,2509
+glucose,Metabolites,D-Glucose,383,2529,2536
+β - Alanine,Metabolites,eta-Alanine,384,0,11
+3 - aminopropionic acid,Metabolites,eta-Alanine,384,14,37
+β - alanine,Metabolites,eta-Alanine,384,547,558
+β - alanine,Metabolites,eta-Alanine,384,716,727
+β - alanine,Metabolites,eta-Alanine,384,798,809
+β - Alanine,Metabolites,eta-Alanine,385,0,11
+β - alanine,Metabolites,eta-Alanine,385,565,576
+taurine,Metabolites,Taurine,385,906,913
+histidine,Metabolites,L-Histidine,385,918,927
+β - Alanine,Metabolites,eta-Alanine,385,1584,1595
+alanine,Metabolites,D-Alanine,385,1651,1658
+β - alanine,Metabolites,eta-Alanine,385,1871,1882
+taurine,Metabolites,Taurine,385,1918,1925
+histidine,Metabolites,L-Histidine,385,1977,1986
+β - alanine,Metabolites,eta-Alanine,385,2069,2080
+taurine,Metabolites,Taurine,385,2100,2107
+β - alanine,Metabolites,eta-Alanine,385,2194,2205
+β - alanine,Metabolites,eta-Alanine,385,2267,2278
+β - alanine,Metabolites,eta-Alanine,386,656,667
+β - alanine,Metabolites,eta-Alanine,386,837,848
+β - alanine,Metabolites,eta-Alanine,386,969,980
+β - alanine,Metabolites,eta-Alanine,386,1149,1160
+β - Alanine,Metabolites,eta-Alanine,387,0,11
+β - alanine,Metabolites,eta-Alanine,387,195,206
+β - alanine,Metabolites,eta-Alanine,387,339,350
+β - alanine,Metabolites,eta-Alanine,387,618,629
+β - alanine,Metabolites,eta-Alanine,387,728,739
+β - alanine,Metabolites,eta-Alanine,387,879,890
+β - alanine,Metabolites,eta-Alanine,387,1237,1248
+β - alanine,Metabolites,eta-Alanine,387,1571,1582
+β - alanine,Metabolites,eta-Alanine,387,1649,1660
+β - alanine,Metabolites,eta-Alanine,387,1762,1773
+β - alanine,Metabolites,eta-Alanine,387,1884,1895
+β - alanine,Metabolites,eta-Alanine,387,2074,2085
+l - histidine,Metabolites,L-Histidine,388,53,66
+beta - alanine,Metabolites,eta-Alanine,388,71,85
+carnosine,Metabolites,Carnosine,388,141,150
+carnosine,Metabolites,Carnosine,388,184,193
+l - histidine,Metabolites,L-Histidine,388,406,419
+beta - alanine,Metabolites,eta-Alanine,388,475,489
+histidine,Metabolites,L-Histidine,388,540,549
+l - histidine,Metabolites,L-Histidine,388,735,748
+beta - alanine,Metabolites,eta-Alanine,388,753,767
+l - histidine,Metabolites,L-Histidine,388,1089,1102
+l - Histidine,Metabolites,L-Histidine,388,1162,1175
+beta - alanine,Metabolites,eta-Alanine,388,1428,1442
+l - histidine,Metabolites,L-Histidine,388,1469,1482
+l - histidine,Metabolites,L-Histidine,388,1553,1566
+beta - alanine,Metabolites,eta-Alanine,388,1842,1856
+l - histidine,Metabolites,L-Histidine,388,2046,2059
+beta - alanine,Metabolites,eta-Alanine,388,2064,2078
+carnosine,Metabolites,Carnosine,388,2120,2129
+anserine,Metabolites,Anserine,388,2134,2142
+carnosine,Metabolites,Carnosine,388,2202,2211
+carnosine,Metabolites,Carnosine,388,2238,2247
+l - histidine,Metabolites,L-Histidine,388,2250,2263
+l - histidine,Metabolites,L-Histidine,388,2270,2283
+l - histidine,Metabolites,L-Histidine,388,2392,2405
+beta - alanine,Metabolites,eta-Alanine,388,2423,2437
+l - histidine,Metabolites,L-Histidine,388,2458,2471
+beta - alanine,Metabolites,eta-Alanine,388,2476,2490
+carnosine,Metabolites,Carnosine,388,2557,2566
+anserine,Metabolites,Anserine,388,2571,2579
+carnosine,Metabolites,Carnosine,388,2628,2637
+Carnosine,Metabolites,Carnosine,389,0,9
+β - alanine,Metabolites,eta-Alanine,389,133,144
+L - histidine,Metabolites,L-Histidine,389,149,162
+Carnosine,Metabolites,Carnosine,389,165,174
+Carnosine,Metabolites,Carnosine,389,449,458
+Carnosine,Metabolites,Carnosine,389,789,798
+carnosine,Metabolites,Carnosine,389,1072,1081
+β - alanine,Metabolites,eta-Alanine,389,1122,1133
+β - alanine,Metabolites,eta-Alanine,390,364,375
+β - alanine,Metabolites,eta-Alanine,391,73,84
+β - alanine,Metabolites,eta-Alanine,391,363,374
+β - alanine,Metabolites,eta-Alanine,391,660,671
+β - alanine,Metabolites,eta-Alanine,391,886,897
+β - alanine,Metabolites,eta-Alanine,391,1027,1038
+β - alanine,Metabolites,eta-Alanine,391,1189,1200
+β - alanine,Metabolites,eta-Alanine,391,1348,1359
+β - alanine,Metabolites,eta-Alanine,391,1946,1957
+beta - alanine,Metabolites,eta-Alanine,392,38,52
+carnosine,Metabolites,Carnosine,392,332,341
+beta - alanine,Metabolites,eta-Alanine,392,917,931
+carnosine,Metabolites,Carnosine,392,1064,1073
+Beta - alanine,Metabolites,eta-Alanine,392,1507,1521
+carnosine,Metabolites,Carnosine,392,1555,1564
+beta - alanine,Metabolites,eta-Alanine,392,1743,1757
+carnosine,Metabolites,Carnosine,392,1791,1800
+beta - alanine,Metabolites,eta-Alanine,392,2308,2322
+Beta - alanine,Metabolites,eta-Alanine,392,2489,2503
+carnosine,Metabolites,Carnosine,392,2537,2546
+beta - alanine,Metabolites,eta-Alanine,392,2904,2918
+carnosine,Metabolites,Carnosine,392,2963,2972
+beta - alanine,Metabolites,eta-Alanine,393,405,419
+creatine,Metabolites,Creatine,393,430,438
+arginine,Metabolites,L-Arginine,393,467,475
+N - Acetyl - L - Tyrosine,Metabolites,N-Acetyl-L-tyrosine,393,508,533
+L - Dopa,Metabolites,L-Dopa,393,616,624
+Vitamin B12,Metabolites,Cyanocobalamin,393,733,744
+creatine,Metabolites,Creatine,395,269,277
+beta - alanine,Metabolites,eta-Alanine,395,280,294
+Carnosine,Metabolites,Carnosine,397,0,9
+L - histidine,Metabolites,L-Histidine,397,25,38
+β - alanine,Metabolites,eta-Alanine,397,182,193
+carnosine,Metabolites,Carnosine,397,234,243
+carnosine,Metabolites,Carnosine,397,327,336
+β - alanine,Metabolites,eta-Alanine,397,341,352
+Ca,Metabolites,Calcium,397,656,658
+carnosine,Metabolites,Carnosine,397,764,773
+Ca,Metabolites,Calcium,397,806,808
+carnosine,Metabolites,Carnosine,397,919,928
+carnosine,Metabolites,Carnosine,397,1131,1140
+β - alanine,Metabolites,eta-Alanine,397,1161,1172
+β - alanine,Metabolites,eta-Alanine,398,711,722
+beta - alanine,Metabolites,eta-Alanine,400,50,64
+creatine,Metabolites,Creatine,400,230,238
+lactate,Metabolites,Indoleacetic acid,400,872,879
+ammonia,Metabolites,Ammonia,400,1026,1033
+NH3,Metabolites,Ammonia,400,1036,1039
+NH3,Metabolites,Ammonia,400,1192,1195
+β - alanine,Metabolites,eta-Alanine,402,40,51
+β - alanine,Metabolites,eta-Alanine,402,571,582
+dextrose,Metabolites,D-Glucose,402,593,601
+carnosine,Metabolites,Carnosine,402,1052,1061
+carnosine,Metabolites,Carnosine,402,1610,1619
+β - alanine,Metabolites,eta-Alanine,402,2008,2019
+carnosine,Metabolites,Carnosine,402,2065,2074
+β - Alanine,Metabolites,eta-Alanine,402,2191,2202
+carnosine,Metabolites,Carnosine,402,2337,2346
+β - alanine,Metabolites,eta-Alanine,402,2366,2377
+β - alanine,Metabolites,eta-Alanine,402,2487,2498
+beta - alanine,Metabolites,eta-Alanine,404,74,88
+beta - alanine,Metabolites,eta-Alanine,404,377,391
+beta - alanine,Metabolites,eta-Alanine,404,466,480
+beta - alanine,Metabolites,eta-Alanine,404,783,797
+beta - alanine,Metabolites,eta-Alanine,404,1025,1039
+beta - alanine,Metabolites,eta-Alanine,404,1218,1232
+beta - alanine,Metabolites,eta-Alanine,404,1326,1340
+β - Alanine,Metabolites,eta-Alanine,405,0,11
+β - alanine,Metabolites,eta-Alanine,405,221,232
+β - alanine,Metabolites,eta-Alanine,405,413,424
+glucose,Metabolites,D-Glucose,405,597,604
+β - alanine,Metabolites,eta-Alanine,405,856,867
+β - alanine,Metabolites,eta-Alanine,405,901,912
+glucose,Metabolites,D-Glucose,405,939,946
+β - alanine,Metabolites,eta-Alanine,405,1071,1082
+β - alanine,Metabolites,eta-Alanine,405,1160,1171
+β - alanine,Metabolites,eta-Alanine,406,83,94
+β - alanine,Metabolites,eta-Alanine,406,154,165
+β - alanine,Metabolites,eta-Alanine,406,220,231
+β - alanine,Metabolites,eta-Alanine,406,341,352
+β - Alanine,Metabolites,eta-Alanine,406,448,459
+carnosine,Metabolites,Carnosine,406,464,473
+β - alanine,Metabolites,eta-Alanine,406,614,625
+β - Alanine,Metabolites,eta-Alanine,406,637,648
+β - alanine,Metabolites,eta-Alanine,406,740,751
+β - Alanine,Metabolites,eta-Alanine,406,808,819
+β - alanine,Metabolites,eta-Alanine,406,958,969
+β - alanine,Metabolites,eta-Alanine,406,979,990
+carnosine,Metabolites,Carnosine,406,1000,1009
+β - alanine,Metabolites,eta-Alanine,406,1022,1033
+β - alanine,Metabolites,eta-Alanine,406,1144,1155
+β - alanine,Metabolites,eta-Alanine,406,1166,1177
+β - alanine,Metabolites,eta-Alanine,406,1248,1259
+β - alanine,Metabolites,eta-Alanine,406,1351,1362
+β - alanine,Metabolites,eta-Alanine,406,1504,1515
+β - alanine,Metabolites,eta-Alanine,406,1548,1559
+β - alanine,Metabolites,eta-Alanine,407,181,192
+β - alanine,Metabolites,eta-Alanine,409,28,39
+β - alanine,Metabolites,eta-Alanine,409,233,244
+β - alanine,Metabolites,eta-Alanine,409,525,536
+β - alanine,Metabolites,eta-Alanine,409,692,703
+β - alanine,Metabolites,eta-Alanine,409,829,840
+β - alanine,Metabolites,eta-Alanine,409,930,941
+β - alanine,Metabolites,eta-Alanine,409,1135,1146
+β - alanine,Metabolites,eta-Alanine,409,1225,1236
+β - alanine,Metabolites,eta-Alanine,409,1368,1379
+β - alanine,Metabolites,eta-Alanine,409,1412,1423
+β - alanine,Metabolites,eta-Alanine,410,220,231
+β - alanine,Metabolites,eta-Alanine,410,565,576
+PEA,Metabolites,O-Phosphoethanolamine,411,90,93
+PEA,Metabolites,O-Phosphoethanolamine,411,491,494
+PEA,Metabolites,O-Phosphoethanolamine,411,1020,1023
+nicotinamide adenine dinucleotide,Metabolites,NAD,411,1138,1171
+Beta - alanine,Metabolites,eta-Alanine,412,13,27
+beta - alanine,Metabolites,eta-Alanine,412,182,196
+beta - alanine,Metabolites,eta-Alanine,412,293,307
+beta - alanine,Metabolites,eta-Alanine,412,551,565
+lactate,Metabolites,Indoleacetic acid,412,871,878
+beta - alanine,Metabolites,eta-Alanine,412,1524,1538
+β - alanine,Metabolites,eta-Alanine,413,60,71
+carnosine,Metabolites,Carnosine,413,90,99
+anserine,Metabolites,Anserine,413,104,112
+β - alanine,Metabolites,eta-Alanine,413,343,354
+β - alanine,Metabolites,eta-Alanine,413,646,657
+β - alanine,Metabolites,eta-Alanine,413,1275,1286
+β - alanine,Metabolites,eta-Alanine,413,1403,1414
+carnosine,Metabolites,Carnosine,413,1441,1450
+anserine,Metabolites,Anserine,413,1453,1461
+carnosine,Metabolites,Carnosine,413,1482,1491
+anserine,Metabolites,Anserine,413,1494,1502
+carnosine,Metabolites,Carnosine,414,55,64
+Carnosine,Metabolites,Carnosine,414,121,130
+β - alanine,Metabolites,eta-Alanine,414,253,264
+carnosine,Metabolites,Carnosine,414,315,324
+β - alanine,Metabolites,eta-Alanine,414,889,900
+β - alanine,Metabolites,eta-Alanine,414,1037,1048
+carnosine,Metabolites,Carnosine,414,1394,1403
+Carnosine,Metabolites,Carnosine,414,1752,1761
+β - alanine,Metabolites,eta-Alanine,414,1999,2010
+beta - alanine,Metabolites,eta-Alanine,415,486,500
+creatine,Metabolites,Creatine,415,511,519
+arginine,Metabolites,L-Arginine,415,548,556
+N - Acetyl - L - Tyrosine,Metabolites,N-Acetyl-L-tyrosine,415,589,614
+L - Dopa,Metabolites,L-Dopa,415,697,705
+Vitamin B12,Metabolites,Cyanocobalamin,415,814,825
+Carnosine,Metabolites,Carnosine,416,0,9
+histidine,Metabolites,L-Histidine,416,14,23
+β - alanine,Metabolites,eta-Alanine,416,115,126
+β - alanine,Metabolites,eta-Alanine,416,209,220
+β - alanine,Metabolites,eta-Alanine,416,282,293
+carnosine,Metabolites,Carnosine,416,329,338
+β - alanine,Metabolites,eta-Alanine,416,393,404
+histidine,Metabolites,L-Histidine,416,480,489
+β - alanine,Metabolites,eta-Alanine,416,553,564
+carnosine,Metabolites,Carnosine,416,591,600
+histidine,Metabolites,L-Histidine,416,673,682
+β - Alanine,Metabolites,eta-Alanine,416,693,704
+carnosine,Metabolites,Carnosine,416,743,752
+histidine,Metabolites,L-Histidine,416,782,791
+Carnosine,Metabolites,Carnosine,417,270,279
+beta - alanine,Metabolites,eta-Alanine,417,352,366
+beta - alanine,Metabolites,eta-Alanine,417,413,427
+beta - alanine,Metabolites,eta-Alanine,417,596,610
+dextrose,Metabolites,D-Glucose,417,642,650
+lactate,Metabolites,Indoleacetic acid,417,947,954
+Beta - alanine,Metabolites,eta-Alanine,417,981,995
+lactate,Metabolites,Indoleacetic acid,417,1300,1307
+beta - alanine,Metabolites,eta-Alanine,417,1346,1360
+beta - alanine,Metabolites,eta-Alanine,417,1448,1462
+histamine,Metabolites,Histamine,418,102,111
+histamine,Metabolites,Histamine,418,178,187
+histamine,Metabolites,Histamine,418,334,343
+β - alanine,Metabolites,eta-Alanine,418,348,359
+histamine,Metabolites,Histamine,418,367,376
+β - alanine,Metabolites,eta-Alanine,418,442,453
+β - alanine,Metabolites,eta-Alanine,418,522,533
+Beta - alanine,Metabolites,eta-Alanine,418,571,585
+β - alanine,Metabolites,eta-Alanine,418,647,658
+β - alanine,Metabolites,eta-Alanine,418,677,688
+β - alanine,Metabolites,eta-Alanine,418,1021,1032
+histamine,Metabolites,Histamine,418,1069,1078
+β - alanine,Metabolites,eta-Alanine,420,21,32
+β - alanine,Metabolites,eta-Alanine,420,188,199
+β - alanine,Metabolites,eta-Alanine,420,397,408
+β - alanine,Metabolites,eta-Alanine,420,585,596
+Lactate,Metabolites,Indoleacetic acid,420,1126,1133
+β - alanine,Metabolites,eta-Alanine,420,1331,1342
+β - Alanine,Metabolites,eta-Alanine,421,13,24
+β - alanine,Metabolites,eta-Alanine,421,610,621
+β - alanine,Metabolites,eta-Alanine,421,929,940
+l - histidine,Metabolites,L-Histidine,421,947,960
+carnosine,Metabolites,Carnosine,421,970,979
+β - alanine,Metabolites,eta-Alanine,421,1036,1047
+β - Alanine,Metabolites,eta-Alanine,421,1100,1111
+β - alanine,Metabolites,eta-Alanine,421,2464,2475
+carnosine,Metabolites,Carnosine,421,2588,2597
+beta - alanine,Metabolites,eta-Alanine,422,32,46
+beta - alanine,Metabolites,eta-Alanine,422,270,284
+beta - alanine,Metabolites,eta-Alanine,422,1090,1104
+beta - alanine,Metabolites,eta-Alanine,422,1178,1192
+beta - alanine,Metabolites,eta-Alanine,422,1468,1482
+beta - alanine,Metabolites,eta-Alanine,422,1696,1710
+Beta - Alanine,Metabolites,eta-Alanine,423,204,218
+Beta - alanine,Metabolites,eta-Alanine,423,331,345
+carnosine,Metabolites,Carnosine,423,448,457
+dopamine,Metabolites,Dopamine,425,17,25
+Dopamine,Metabolites,Dopamine,427,10,18
+dopamine,Metabolites,Dopamine,427,73,81
+dopamine,Metabolites,Dopamine,427,208,216
+dopamine,Metabolites,Dopamine,429,29,37
+dopamine,Metabolites,Dopamine,429,429,437
+dopamine,Metabolites,Dopamine,429,769,777
+levodopa,Metabolites,L-Dopa,429,963,971
+dopamine,Metabolites,Dopamine,429,974,982
+levodopa,Metabolites,L-Dopa,429,1188,1196
+sphingosine - 1 - phosphate,Metabolites,Sphingosine 1-phosphate,430,833,860
+S1P,Metabolites,Sphingosine 1-phosphate,430,863,866
+S1P,Metabolites,Sphingosine 1-phosphate,430,1011,1014
+alcohol,Metabolites,Ethanol,431,873,880
+calcium,Metabolites,Calcium,433,939,946
+dopamine,Metabolites,Dopamine,434,309,317
+dopamine,Metabolites,Dopamine,434,587,595
+dopamine,Metabolites,Dopamine,434,701,709
+dopamine,Metabolites,Dopamine,434,1134,1142
+dopamine,Metabolites,Dopamine,435,374,382
+dopamine,Metabolites,Dopamine,438,180,188
+dopamine,Metabolites,Dopamine,439,539,547
+dopamine,Metabolites,Dopamine,439,1101,1109
+Levodopa,Metabolites,L-Dopa,439,1334,1342
+L - DOPA,Metabolites,L-Dopa,439,1345,1353
+dopamine,Metabolites,Dopamine,439,1391,1399
+levodopa,Metabolites,L-Dopa,439,1571,1579
+levodopa,Metabolites,L-Dopa,439,1640,1648
+levodopa,Metabolites,L-Dopa,439,1764,1772
+Dopamine,Metabolites,Dopamine,439,1787,1795
+dopamine,Metabolites,Dopamine,439,1986,1994
+dopamine,Metabolites,Dopamine,439,2301,2309
+Dopamine,Metabolites,Dopamine,439,2430,2438
+levodopa,Metabolites,L-Dopa,439,2661,2669
+dopamine,Metabolites,Dopamine,439,2826,2834
+adenosine,Metabolites,Adenosine,439,3026,3035
+dopamine,Metabolites,Dopamine,439,3086,3094
+dopamine,Metabolites,Dopamine,441,237,245
+dopamine,Metabolites,Dopamine,441,918,926
+dopamine,Metabolites,Dopamine,442,1247,1255
+levodopa,Metabolites,L-Dopa,442,1269,1277
+l - DOPA,Metabolites,L-Dopa,442,1280,1288
+dopamine,Metabolites,Dopamine,442,1370,1378
+dopamine,Metabolites,Dopamine,445,160,168
+dopamine,Metabolites,Dopamine,445,603,611
+dopamine,Metabolites,Dopamine,445,642,650
+dopamine,Metabolites,Dopamine,445,690,698
+dopamine,Metabolites,Dopamine,445,913,921
+dopamine,Metabolites,Dopamine,445,1083,1091
+dopamine,Metabolites,Dopamine,445,1175,1183
+dopamine,Metabolites,Dopamine,445,1253,1261
+dopamine,Metabolites,Dopamine,447,62,70
+dopamine,Metabolites,Dopamine,447,191,199
+metyrapone,Metabolites,Fe2+,451,1156,1166
+T4,Metabolites,Thyroxine,451,1201,1203
+dopamine,Metabolites,Dopamine,452,810,818
+dopamine,Metabolites,Dopamine,452,873,881
+dopamine,Metabolites,Dopamine,452,985,993
+dopamine,Metabolites,Dopamine,452,1456,1464
+dopamine,Metabolites,Dopamine,452,1725,1733
+dopamine,Metabolites,Dopamine,453,182,190
+dopamine,Metabolites,Dopamine,453,375,383
+dopamine,Metabolites,Dopamine,456,818,826
+levodopa,Metabolites,L-Dopa,456,838,846
+dopamine,Metabolites,Dopamine,458,170,178
+dopamine,Metabolites,Dopamine,458,293,301
+dopamine,Metabolites,Dopamine,458,372,380
+levodopa,Metabolites,L-Dopa,460,968,976
+dopamine,Metabolites,Dopamine,461,312,320
+dopamine,Metabolites,Dopamine,462,359,367
+Levodopa,Metabolites,L-Dopa,462,832,840
+dopamine,Metabolites,Dopamine,462,930,938
+SAR,Metabolites,Sarcosine,462,1382,1385
+dopamine,Metabolites,Dopamine,463,585,593
+dopamine,Metabolites,Dopamine,463,1079,1087
+dopamine,Metabolites,Dopamine,463,1212,1220
+dopamine,Metabolites,Dopamine,465,550,558
+dopamine,Metabolites,Dopamine,465,565,573
+Levodopa,Metabolites,L-Dopa,465,1270,1278
+L - DOPA,Metabolites,L-Dopa,465,1281,1289
+dopamine,Metabolites,Dopamine,466,496,504
+Dopamine,Metabolites,Dopamine,468,417,425
+dopamine,Metabolites,Dopamine,470,30,38
+dopamine,Metabolites,Dopamine,470,624,632
+dopamine,Metabolites,Dopamine,470,715,723
+dopamine,Metabolites,Dopamine,470,1855,1863
+dopamine,Metabolites,Dopamine,471,32,40
+dopamine,Metabolites,Dopamine,472,1294,1302
+dopamine,Metabolites,Dopamine,474,4,12
+dopamine,Metabolites,Dopamine,474,37,45
+dopamine,Metabolites,Dopamine,474,160,168
+dopamine,Metabolites,Dopamine,474,731,739
+serotonin,Metabolites,Serotonin,475,1479,1488
+serotonin,Metabolites,Serotonin,475,1551,1560
+norepinephrine,Metabolites,Norepinephrine,475,1565,1579
+dopamine,Metabolites,Dopamine,475,1749,1757
+dopamine,Metabolites,Dopamine,476,538,546
+dopamine,Metabolites,Dopamine,476,978,986
+dopamine,Metabolites,Dopamine,477,58,66
+dopamine,Metabolites,Dopamine,477,292,300
+dopamine,Metabolites,Dopamine,477,616,624
+levodopa,Metabolites,L-Dopa,477,701,709
+dopamine,Metabolites,Dopamine,477,900,908
+levodopa,Metabolites,L-Dopa,477,1601,1609
+Dopamine,Metabolites,Dopamine,477,1636,1644
+levodopa,Metabolites,L-Dopa,477,1777,1785
+levodopa,Metabolites,L-Dopa,477,1938,1946
+dopamine,Metabolites,Dopamine,478,44,52
+dopamine,Metabolites,Dopamine,478,2698,2706
+dopamine,Metabolites,Dopamine,478,2895,2903
+dopamine,Metabolites,Dopamine,479,3895,3903
+calcium,Metabolites,Calcium,479,4093,4100
+Levodopa,Metabolites,L-Dopa,480,808,816
+dopamine,Metabolites,Dopamine,480,833,841
+dopamine,Metabolites,Dopamine,480,873,881
+DOPA,Metabolites,DL-Dopa,480,935,939
+dopamine,Metabolites,Dopamine,480,975,983
+dopamine,Metabolites,Dopamine,480,1014,1022
+dopamine,Metabolites,Dopamine,480,1052,1060
+serotonin,Metabolites,Serotonin,480,1947,1956
+noradrenaline,Metabolites,Norepinephrine,480,1961,1974
+serotonin,Metabolites,Serotonin,480,2561,2570
+Dopamine,Metabolites,Dopamine,481,0,8
+dopamine,Metabolites,Dopamine,481,125,133
+Dopamine,Metabolites,Dopamine,481,166,174
+dopamine,Metabolites,Dopamine,481,337,345
+Dopamine,Metabolites,Dopamine,481,394,402
+dopamine,Metabolites,Dopamine,481,631,639
+Dopamine,Metabolites,Dopamine,481,787,795
+dopamine,Metabolites,Dopamine,481,937,945
+Dopamine,Metabolites,Dopamine,481,962,970
+dopamine,Metabolites,Dopamine,481,1217,1225
+intropin,Metabolites,Dopamine,481,1228,1236
+L - DOPA,Metabolites,L-Dopa,481,1239,1247
+dopamine,Metabolites,Dopamine,481,1641,1649
+dopamine,Metabolites,Dopamine,481,2022,2030
+dopamine,Metabolites,Dopamine,484,200,208
+levodopa,Metabolites,L-Dopa,484,745,753
+Dopamine,Metabolites,Dopamine,485,13,21
+dopamine,Metabolites,Dopamine,485,612,620
+cysteine,Metabolites,L-Cysteine,486,1546,1554
+dopamine,Metabolites,Dopamine,488,916,924
+sodium,Metabolites,Sodium,489,707,713
+dopamine,Metabolites,Dopamine,490,27,35
+NMA,Metabolites,Methylamine,492,176,179
+NMA,Metabolites,Methylamine,492,352,355
+levodopa,Metabolites,L-Dopa,492,420,428
+indole,Metabolites,Indole,493,92,98
+Ca2 +,Metabolites,Calcium,494,597,602
+dopamine,Metabolites,Dopamine,496,44,52
+levodopa,Metabolites,L-Dopa,496,319,327
+levodopa,Metabolites,L-Dopa,496,677,685
+tyrosine,Metabolites,L-Tyrosine,497,636,644
+levodopa,Metabolites,L-Dopa,498,124,132
+L - dopa,Metabolites,L-Dopa,498,135,143
+dopamine,Metabolites,Dopamine,498,208,216
+NMA,Metabolites,Methylamine,498,314,317
+levodopa,Metabolites,L-Dopa,498,2066,2074
+NMA,Metabolites,Methylamine,498,2307,2310
