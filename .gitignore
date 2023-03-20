@@ -9,6 +9,7 @@ RE/BioGPT/fairseq/
 RE/BioGPT/mosesdecoder/
 RE/BioGPT/fastBPE/
 RE/BioGPT/data/
+RE/BioGPT/abstract_writer_31_01.csv
 RE/BioGPT/data/repo_for_test/BioGPT/
 RE/chatGPT/abstract_relations.csv
 RE/chatGPT/abstract_relations_upgraded_prompt.csv
