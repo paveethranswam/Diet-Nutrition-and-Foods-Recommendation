@@ -8,9 +8,13 @@ RE/BioGPT/checkpoints/
 RE/BioGPT/fairseq/
 RE/BioGPT/mosesdecoder/
 RE/BioGPT/fastBPE/
+RE/BioGPT/data/
 RE/BioGPT/data/repo_for_test/BioGPT/
+RE/chatGPT/abstract_relations.csv
+RE/chatGPT/abstract_relations_upgraded_prompt.csv
 RE/BioGPT/.git*
 
 BioGPT_use-conda/
 
+RE/FLAN-T5/flan_t5/
 RE-BioGPT/biogpt/
