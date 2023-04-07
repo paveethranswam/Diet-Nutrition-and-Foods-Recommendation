@@ -1,27 +1,25 @@
 #!/bin/bash
 #####  Constructed by HPC everywhere #####
-#SBATCH -J biogpt_job
+#SBATCH -J biogpt_job_re
 #SBATCH -A r00082
 #SBATCH -p gpu
-
-#SBATCH -o biogpt_job.txt
-#SBATCH -e biogpt_job.err
-
-#SBATCH --nodes 3
+#SBATCH -o biogpt_job_re.txt
+#SBATCH -e biogpt_job_re.err
+#SBATCH --nodes 1
 #SBATCH --ntasks-per-node 1
 #SBATCH --gpus-per-node v100:1
+#SBATCH --mem=100G
 #SBATCH --partition=dl
-#SBATCH --output biogpt_job_log
-
-#SBATCH --time=24:00:00
+#SBATCH --output biogpt_job_re_log
+#SBATCH --time=4:00:00
 
 ######  Module commands #####
-module unload python/3.9.8
-module load python/3.10.5
+# module unload python/3.9.8
+module load python
 
 #### module load deeplearning - No need to use this as my virtual env has all dl components installed
 
-source /N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE-BioGPT/biogpt/bin/activate
+source /N/u/paswam/Carbonate/raPython/bin/activate
 
 ######  Job commands go below this line #####
 echo '###### Running script ######'
