@@ -4,7 +4,9 @@
 MODEL_DIR=../../checkpoints/RE-BC5CDR-BioGPT
 MODEL=checkpoint_avg.pt
 #DATA_DIR=${PWD}/../../data/BC5CDR/relis-bin
-DATA_DIR=/N/project/zhangclab/Pavi/KD-DocRE/RE/BioGPT/examples/RE-BC5CDR/../../data/BC5CDR/relis-bin
+#DATA_DIR=/N/project/zhangclab/Pavi/KD-DocRE/RE/BioGPT/examples/RE-BC5CDR/../../data/BC5CDR/relis-bin
+#DATA_DIR=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE/BioGPT/examples/RE-BC5CDR/../../data/BC5CDR/relis-bin
+
 BASE_DATA_DIR=${DATA_DIR%/*}
 BIN_DATA_DIR=${DATA_DIR##*/}
 DATA_PREFIX=${BIN_DATA_DIR%-*}
@@ -19,6 +21,9 @@ PMID_FILE=${RAW_DATA_DIR}/${DATA_PREFIX}_test.pmid
 
 MOSES=/N/project/zhangclab/Pavi/KD-DocRE/RE/BioGPT/mosesdecoder
 BIOGPT_FOLDER_CDR=/N/project/zhangclab/Pavi/KD-DocRE/RE/BioGPT/examples/RE-BC5CDR
+
+#MOSES=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE/BioGPT/mosesdecoder
+#BIOGPT_FOLDER_CDR=/N/project/zhangclab/Pavi/Jack/Diet-Nutrition-and-Foods-Recommendation/RE/BioGPT/examples/RE-BC5CDR
 
 # average checkpoints
 if [ ! -f "${MODEL_DIR}/${MODEL}" ]; then
